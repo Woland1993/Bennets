@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="592" height="392" viewBox="0 0 592 392">
+  <defs>
+    <clipPath id="clip-Menu_NIT">
+      <rect width="592" height="392"/>
+    </clipPath>
+  </defs>
+  <g id="Menu_NIT" data-name="Menu NIT" clip-path="url(#clip-Menu_NIT)">
+    <g id="Ingrese_nombre_de_facturacion" data-name="Ingrese nombre de facturacion" transform="translate(-960 -424)">
+      <rect id="Rectángulo_21" data-name="Rectángulo 21" width="590" height="382" rx="39" transform="translate(960 424)" fill="#212121"/>
+      <path id="Rectángulo_21_-_Contorno" data-name="Rectángulo 21 - Contorno" d="M39,1A37.968,37.968,0,0,0,1,39V343a37.968,37.968,0,0,0,38,38H551a37.968,37.968,0,0,0,38-38V39A37.968,37.968,0,0,0,551,1H39m0-1H551a39,39,0,0,1,39,39V343a39,39,0,0,1-39,39H39A39,39,0,0,1,0,343V39A39,39,0,0,1,39,0Z" transform="translate(960 424)" fill="#707070"/>
+      <text id="Nombre_de_facturación_" data-name="Nombre de facturación " transform="translate(1026 476)" fill="#b4b4b4" font-size="22" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Nombre de facturación </tspan></text>
+      <rect id="Rectángulo_22" data-name="Rectángulo 22" width="499" height="60" rx="23" transform="translate(1006 499)" fill="#2f2f2f"/>
+      <path id="Rectángulo_22_-_Contorno" data-name="Rectángulo 22 - Contorno" d="M23,1A21.981,21.981,0,0,0,1,23V37A21.981,21.981,0,0,0,23,59H476a21.981,21.981,0,0,0,22-22V23A21.981,21.981,0,0,0,476,1H23m0-1H476a23,23,0,0,1,23,23V37a23,23,0,0,1-23,23H23A23,23,0,0,1,0,37V23A23,23,0,0,1,23,0Z" transform="translate(1006 499)" fill="#707070"/>
+      <g id="Guardar" transform="translate(1344 691.207)">
+        <rect id="Rectángulo_13" data-name="Rectángulo 13" width="161" height="77" rx="29" transform="translate(0 -0.207)" fill="#2f2f2f"/>
+        <path id="Rectángulo_13_-_Contorno" data-name="Rectángulo 13 - Contorno" d="M29,1A27.976,27.976,0,0,0,1,29V48A27.976,27.976,0,0,0,29,76H132a27.976,27.976,0,0,0,28-28V29A27.976,27.976,0,0,0,132,1H29m0-1H132a29,29,0,0,1,29,29V48a29,29,0,0,1-29,29H29A29,29,0,0,1,0,48V29A29,29,0,0,1,29,0Z" transform="translate(0 -0.207)" fill="#707070"/>
+        <text id="Guardar-2" data-name="Guardar" transform="translate(41 47.793)" fill="#b4b4b4" font-size="22" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Guardar</tspan></text>
+      </g>
+      <text id="NIT_" data-name="NIT " transform="translate(1026 590)" fill="#b4b4b4" font-size="22" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">NIT </tspan></text>
+      <rect id="Rectángulo_23" data-name="Rectángulo 23" width="499" height="60" rx="23" transform="translate(1006 604)" fill="#2f2f2f"/>
+      <path id="Rectángulo_23_-_Contorno" data-name="Rectángulo 23 - Contorno" d="M23,1A21.981,21.981,0,0,0,1,23V37A21.981,21.981,0,0,0,23,59H476a21.981,21.981,0,0,0,22-22V23A21.981,21.981,0,0,0,476,1H23m0-1H476a23,23,0,0,1,23,23V37a23,23,0,0,1-23,23H23A23,23,0,0,1,0,37V23A23,23,0,0,1,23,0Z" transform="translate(1006 604)" fill="#707070"/>
+      <g id="Cancelar" transform="translate(1164 691)">
+        <g id="Rectángulo_13-2" data-name="Rectángulo 13" fill="#2f2f2f" stroke="#707070" stroke-width="1">
+          <rect width="161" height="77" rx="29" stroke="none"/>
+          <rect x="0.5" y="0.5" width="160" height="76" rx="28.5" fill="none"/>
+        </g>
+        <text id="Cancelar-2" data-name="Cancelar" transform="translate(41 48)" fill="#b4b4b4" font-size="22" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Cancelar</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,156 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="879" height="658" viewBox="0 0 879 658">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="389" height="35" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-Call_Center_Selector_de_productos_Detalle_de_productos">
+      <rect width="879" height="658"/>
+    </clipPath>
+  </defs>
+  <g id="Call_Center_Selector_de_productos_Detalle_de_productos" data-name="Call Center Selector de productos Detalle de productos" clip-path="url(#clip-Call_Center_Selector_de_productos_Detalle_de_productos)">
+    <g id="Formulario_Combo" data-name="Formulario Combo" transform="translate(0 4.771)">
+      <path id="Formulario_Cliente" data-name="Formulario Cliente" d="M29.621,0H846.312c16.359,0,29.621,14.04,29.621,31.359V617.1c0,17.319-13.262,31.359-29.621,31.359H29.621C13.262,648.459,0,634.419,0,617.1V31.359C0,14.04,13.262,0,29.621,0Z" fill="#212121"/>
+      <path id="Formulario_Cliente_-_Contorno" data-name="Formulario Cliente - Contorno" d="M29.621,1A27.04,27.04,0,0,0,18.5,3.377,28.5,28.5,0,0,0,9.4,9.872a30.422,30.422,0,0,0-6.146,9.652A31.754,31.754,0,0,0,1,31.359V617.1a31.754,31.754,0,0,0,2.256,11.835A30.42,30.42,0,0,0,9.4,638.587a28.493,28.493,0,0,0,9.1,6.495,27.04,27.04,0,0,0,11.121,2.377H846.312a27.04,27.04,0,0,0,11.121-2.377,28.493,28.493,0,0,0,9.1-6.495,30.418,30.418,0,0,0,6.146-9.652,31.752,31.752,0,0,0,2.256-11.835V31.359a31.752,31.752,0,0,0-2.256-11.835,30.42,30.42,0,0,0-6.146-9.652,28.5,28.5,0,0,0-9.1-6.495A27.04,27.04,0,0,0,846.312,1H29.621m0-1H846.312c16.359,0,29.621,14.04,29.621,31.359V617.1c0,17.319-13.262,31.359-29.621,31.359H29.621C13.262,648.459,0,634.419,0,617.1V31.359C0,14.04,13.262,0,29.621,0Z" fill="#707070"/>
+      <text id="_2_Pizzas_Grandes_26_alitas_Sprite_2_lt." data-name="2 Pizzas Grandes +26 alitas +Sprite 2 lt." transform="translate(288 64.229)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">2 Pizzas Grandes +26 alitas +Sprite 2 lt.</tspan></text>
+      <g id="List_productos" data-name="List productos" transform="translate(8.316 94.229)">
+        <path id="Rectángulo_28" data-name="Rectángulo 28" d="M1,1V261.412H415.667V1H1M0,0H416.667V262.412H0Z" transform="translate(25.667 44)" fill="#707070"/>
+        <path id="Rectángulo_29" data-name="Rectángulo 29" d="M1,1V261.412H415.667V1H1M0,0H416.667V262.412H0Z" transform="translate(442.333 44)" fill="#707070"/>
+        <text id="Platos_fuertes" data-name="Platos fuertes" transform="translate(186 22)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Platos fuertes</tspan></text>
+        <text id="Acompañamientos" transform="translate(566 22)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Acompañamientos</tspan></text>
+        <g id="Barra_de_navegacion_pedidos_hechos" data-name="Barra de navegacion pedidos hechos" transform="translate(833 45)">
+          <path id="Barra_de_navegacion" data-name="Barra de navegacion" d="M0,0H24.5V258.254H0Z" fill="#424242"/>
+          <g id="Barra" transform="translate(0.5 24.191)" fill="#686868" stroke="#707070" stroke-width="1">
+            <rect width="24" height="57" stroke="none"/>
+            <rect x="0.5" y="0.5" width="23" height="56" fill="none"/>
+          </g>
+          <g id="boton_barra_de_navegacion" data-name="boton barra de navegacion" transform="translate(0.5 236.063)">
+            <g id="Rectángulo_2" data-name="Rectángulo 2" fill="#424242" stroke="#707070" stroke-width="1">
+              <rect width="24" height="22" stroke="none"/>
+              <rect x="0.5" y="0.5" width="23" height="21" fill="none"/>
+            </g>
+            <g id="Polígono_1" data-name="Polígono 1" transform="translate(20 16) rotate(180)" fill="#686868">
+              <path d="M 15.06573581695557 11.5 L 0.9342628717422485 11.5 L 7.999999523162842 0.9013950228691101 L 15.06573581695557 11.5 Z" stroke="none"/>
+              <path d="M 7.999999523162842 1.802775382995605 L 1.868515968322754 11 L 14.13148307800293 11 L 7.999999523162842 1.802775382995605 M 7.999999523162842 0 L 16 12 L -9.5367431640625e-07 12 L 7.999999523162842 0 Z" stroke="none" fill="#707070"/>
+            </g>
+          </g>
+          <g id="boton_barra_de_navegacion-2" data-name="boton barra de navegacion" transform="translate(0.5 0.191)">
+            <g id="Rectángulo_2-2" data-name="Rectángulo 2" fill="#424242" stroke="#707070" stroke-width="1">
+              <rect width="24" height="22" stroke="none"/>
+              <rect x="0.5" y="0.5" width="23" height="21" fill="none"/>
+            </g>
+            <g id="Polígono_1-2" data-name="Polígono 1" transform="translate(4 4)" fill="#686868">
+              <path d="M 15.01810932159424 10.5 L 0.981889545917511 10.5 L 7.999999523162842 0.850098729133606 L 15.01810932159424 10.5 Z" stroke="none"/>
+              <path d="M 7.999999523162842 1.700187683105469 L 1.963771820068359 10 L 14.03622627258301 10 L 7.999999523162842 1.700187683105469 M 7.999999523162842 0 L 16 11 L -9.5367431640625e-07 11 L 7.999999523162842 0 Z" stroke="none" fill="#707070"/>
+            </g>
+          </g>
+        </g>
+        <g id="Barra_de_navegacion_pedidos_hechos-2" data-name="Barra de navegacion pedidos hechos" transform="translate(0 45)">
+          <path id="Barra_de_navegacion-2" data-name="Barra de navegacion" d="M0,0H24.5V258.254H0Z" fill="#424242"/>
+          <g id="Barra-2" data-name="Barra" transform="translate(0.5 24.191)" fill="#686868" stroke="#707070" stroke-width="1">
+            <rect width="24" height="74" stroke="none"/>
+            <rect x="0.5" y="0.5" width="23" height="73" fill="none"/>
+          </g>
+          <g id="boton_barra_de_navegacion-3" data-name="boton barra de navegacion" transform="translate(0.5 236.063)">
+            <g id="Rectángulo_2-3" data-name="Rectángulo 2" fill="#424242" stroke="#707070" stroke-width="1">
+              <rect width="24" height="22" stroke="none"/>
+              <rect x="0.5" y="0.5" width="23" height="21" fill="none"/>
+            </g>
+            <g id="Polígono_1-3" data-name="Polígono 1" transform="translate(20 16) rotate(180)" fill="#686868">
+              <path d="M 15.06573581695557 11.5 L 0.9342628717422485 11.5 L 7.999999523162842 0.9013950228691101 L 15.06573581695557 11.5 Z" stroke="none"/>
+              <path d="M 7.999999523162842 1.802775382995605 L 1.868515968322754 11 L 14.13148307800293 11 L 7.999999523162842 1.802775382995605 M 7.999999523162842 0 L 16 12 L -9.5367431640625e-07 12 L 7.999999523162842 0 Z" stroke="none" fill="#707070"/>
+            </g>
+          </g>
+          <g id="boton_barra_de_navegacion-4" data-name="boton barra de navegacion" transform="translate(0.5 0.191)">
+            <g id="Rectángulo_2-4" data-name="Rectángulo 2" fill="#424242" stroke="#707070" stroke-width="1">
+              <rect width="24" height="22" stroke="none"/>
+              <rect x="0.5" y="0.5" width="23" height="21" fill="none"/>
+            </g>
+            <g id="Polígono_1-4" data-name="Polígono 1" transform="translate(4 4)" fill="#686868">
+              <path d="M 15.01810932159424 10.5 L 0.981889545917511 10.5 L 7.999999523162842 0.850098729133606 L 15.01810932159424 10.5 Z" stroke="none"/>
+              <path d="M 7.999999523162842 1.700187683105469 L 1.963771820068359 10 L 14.03622627258301 10 L 7.999999523162842 1.700187683105469 M 7.999999523162842 0 L 16 11 L -9.5367431640625e-07 11 L 7.999999523162842 0 Z" stroke="none" fill="#707070"/>
+            </g>
+          </g>
+        </g>
+        <g id="Barra_de_navegacion_pedidos_hechos-3" data-name="Barra de navegacion pedidos hechos" transform="translate(416 45)">
+          <path id="Barra_de_navegacion-3" data-name="Barra de navegacion" d="M0,0H24.5V258.254H0Z" fill="#424242"/>
+          <g id="Barra-3" data-name="Barra" transform="translate(0.5 24.191)" fill="#686868" stroke="#707070" stroke-width="1">
+            <rect width="24" height="67" stroke="none"/>
+            <rect x="0.5" y="0.5" width="23" height="66" fill="none"/>
+          </g>
+          <g id="boton_barra_de_navegacion-5" data-name="boton barra de navegacion" transform="translate(0.5 236.063)">
+            <g id="Rectángulo_2-5" data-name="Rectángulo 2" fill="#424242" stroke="#707070" stroke-width="1">
+              <rect width="24" height="22" stroke="none"/>
+              <rect x="0.5" y="0.5" width="23" height="21" fill="none"/>
+            </g>
+            <g id="Polígono_1-5" data-name="Polígono 1" transform="translate(20 16) rotate(180)" fill="#686868">
+              <path d="M 15.06573581695557 11.5 L 0.9342628717422485 11.5 L 7.999999523162842 0.9013950228691101 L 15.06573581695557 11.5 Z" stroke="none"/>
+              <path d="M 7.999999523162842 1.802775382995605 L 1.868515968322754 11 L 14.13148307800293 11 L 7.999999523162842 1.802775382995605 M 7.999999523162842 0 L 16 12 L -9.5367431640625e-07 12 L 7.999999523162842 0 Z" stroke="none" fill="#707070"/>
+            </g>
+          </g>
+          <g id="boton_barra_de_navegacion-6" data-name="boton barra de navegacion" transform="translate(0.5 0.191)">
+            <g id="Rectángulo_2-6" data-name="Rectángulo 2" fill="#424242" stroke="#707070" stroke-width="1">
+              <rect width="24" height="22" stroke="none"/>
+              <rect x="0.5" y="0.5" width="23" height="21" fill="none"/>
+            </g>
+            <g id="Polígono_1-6" data-name="Polígono 1" transform="translate(4 4)" fill="#686868">
+              <path d="M 15.01810932159424 10.5 L 0.981889545917511 10.5 L 7.999999523162842 0.850098729133606 L 15.01810932159424 10.5 Z" stroke="none"/>
+              <path d="M 7.999999523162842 1.700187683105469 L 1.963771820068359 10 L 14.03622627258301 10 L 7.999999523162842 1.700187683105469 M 7.999999523162842 0 L 16 11 L -9.5367431640625e-07 11 L 7.999999523162842 0 Z" stroke="none" fill="#707070"/>
+            </g>
+          </g>
+        </g>
+        <g id="row_combo" data-name="row combo" transform="translate(442 45)" clip-path="url(#clip-path)">
+          <g id="row_combo-2" data-name="row combo" transform="translate(-573 -291)">
+            <g id="Rectángulo_30" data-name="Rectángulo 30" transform="translate(573 291)" fill="#2f2f2f" stroke="#707070" stroke-width="1">
+              <rect width="389" height="35" stroke="none"/>
+              <rect x="0.5" y="0.5" width="388" height="34" fill="none"/>
+            </g>
+            <text id="Sprite_2_lt." data-name="Sprite 2 lt." transform="translate(608 314)" fill="#b4b4b4" font-size="14" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Sprite 2 lt.</tspan></text>
+            <path id="add_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24" d="M207.716-749.712H200v-2.572h7.716V-760h2.572v7.716H218v2.572h-7.716V-742h-2.572Z" transform="translate(731.998 1059)" fill="#e8eaed"/>
+            <text id="_10_Q" data-name="10 Q" transform="translate(867 314)" fill="#b4b4b4" font-size="14" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">10 Q</tspan></text>
+            <text id="_1_" data-name="1)" transform="translate(585 314)" fill="#b4b4b4" font-size="14" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">1)</tspan></text>
+          </g>
+          <g id="row_combo-3" data-name="row combo" transform="translate(-573 -257)">
+            <g id="Rectángulo_30-2" data-name="Rectángulo 30" transform="translate(573 291)" fill="#2f2f2f" stroke="#707070" stroke-width="1">
+              <rect width="389" height="35" stroke="none"/>
+              <rect x="0.5" y="0.5" width="388" height="34" fill="none"/>
+            </g>
+            <text id="Sprite_2_lt.-2" data-name="Sprite 2 lt." transform="translate(608 314)" fill="#b4b4b4" font-size="14" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Sprite 2 lt.</tspan></text>
+            <path id="add_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24-2" data-name="add_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24" d="M207.716-749.712H200v-2.572h7.716V-760h2.572v7.716H218v2.572h-7.716V-742h-2.572Z" transform="translate(731.998 1059)" fill="#e8eaed"/>
+            <text id="_10_Q-2" data-name="10 Q" transform="translate(867 314)" fill="#b4b4b4" font-size="14" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">10 Q</tspan></text>
+            <text id="_1_2" data-name="1)" transform="translate(585 314)" fill="#b4b4b4" font-size="14" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">1)</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Direccion" transform="translate(34 212.643)">
+        <rect id="Rectángulo_11" data-name="Rectángulo 11" width="386" height="39" transform="translate(3 40.964)" fill="#2f2f2f"/>
+        <path id="Rectángulo_11_-_Contorno" data-name="Rectángulo 11 - Contorno" d="M1,1V38H385V1H1M0,0H386V39H0Z" transform="translate(3 40.964)" fill="#707070"/>
+        <path id="keyboard_arrow_down_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24" d="M249.495-628.29,240-637.785,242.215-640l7.279,7.279L256.774-640l2.215,2.215Z" transform="translate(116.78 694.609)" fill="#9b9b9b"/>
+        <text id="Pizza_Grande" data-name="Pizza Grande" transform="translate(20 33.586)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Pizza Grande</tspan></text>
+      </g>
+      <g id="Direccion-2" data-name="Direccion" transform="translate(34 288.643)">
+        <rect id="Rectángulo_11-2" data-name="Rectángulo 11" width="386" height="39" transform="translate(3 40.964)" fill="#2f2f2f"/>
+        <path id="Rectángulo_11_-_Contorno-2" data-name="Rectángulo 11 - Contorno" d="M1,1V38H385V1H1M0,0H386V39H0Z" transform="translate(3 40.964)" fill="#707070"/>
+        <text id="Plato_Fuerte" data-name="Plato Fuerte" transform="translate(20 33.586)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Plato Fuerte</tspan></text>
+        <text id="_26_Alitas" data-name="26 Alitas" transform="translate(157 68.586)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">26 Alitas</tspan></text>
+      </g>
+      <g id="Guardar" transform="translate(614.479 568.579)">
+        <rect id="Rectángulo_8" data-name="Rectángulo 8" width="106" height="50" rx="25" transform="translate(-0.479 -0.35)" fill="#2f2f2f"/>
+        <path id="Rectángulo_8_-_Contorno" data-name="Rectángulo 8 - Contorno" d="M25,1a24.007,24.007,0,0,0-9.342,46.114A23.849,23.849,0,0,0,25,49H81A24.007,24.007,0,0,0,90.342,2.886,23.849,23.849,0,0,0,81,1H25m0-1H81a25,25,0,0,1,0,50H25A25,25,0,0,1,25,0Z" transform="translate(-0.479 -0.35)" fill="#707070"/>
+        <text id="Cancelar" transform="translate(26.521 27.65)" fill="#b4b4b4" font-size="14" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Cancelar</tspan></text>
+      </g>
+      <g id="Guardar-2" data-name="Guardar" transform="translate(740 568.229)">
+        <g id="Rectángulo_8-2" data-name="Rectángulo 8" fill="#2f2f2f" stroke="#707070" stroke-width="1">
+          <rect width="105" height="51" rx="25.5" stroke="none"/>
+          <rect x="0.5" y="0.5" width="104" height="50" rx="25" fill="none"/>
+        </g>
+        <text id="Guardar-3" data-name="Guardar" transform="translate(25 28)" fill="#b4b4b4" font-size="14" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Guardar</tspan></text>
+      </g>
+      <g id="Plato_fuerte-2" data-name="Plato fuerte" transform="translate(34 130.643)">
+        <rect id="Rectángulo_11-3" data-name="Rectángulo 11" width="386" height="39" transform="translate(3 42.586)" fill="#2f2f2f"/>
+        <path id="Rectángulo_11_-_Contorno-3" data-name="Rectángulo 11 - Contorno" d="M1,1V38H385V1H1M0,0H386V39H0Z" transform="translate(3 42.586)" fill="#707070"/>
+        <path id="keyboard_arrow_down_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24-2" data-name="keyboard_arrow_down_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24" d="M249.495-628.29,240-637.785,242.215-640l7.279,7.279L256.774-640l2.215,2.215Z" transform="translate(116.78 695.092)" fill="#9b9b9b"/>
+        <text id="Pizza_Grande-2" data-name="Pizza Grande" transform="translate(20 33.586)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Pizza Grande</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

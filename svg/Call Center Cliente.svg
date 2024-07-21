@@ -1,0 +1,266 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="417" height="907" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-Call_Center_Cliente">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Call_Center_Cliente" data-name="Call Center Cliente" clip-path="url(#clip-Call_Center_Cliente)">
+    <rect width="1920" height="1080" fill="#fff"/>
+    <g id="Home">
+      <rect id="Fondo" width="1920" height="1080" fill="#212121"/>
+      <path id="Fondo_-_Contorno" data-name="Fondo - Contorno" d="M1,1V1079H1919V1H1M0,0H1920V1080H0Z" fill="#707070"/>
+      <g id="Pedidos">
+        <g id="Pedidos-2" data-name="Pedidos" fill="#171717" stroke="#707070" stroke-width="1">
+          <rect width="472" height="1080" stroke="none"/>
+          <rect x="0.5" y="0.5" width="471" height="1079" fill="none"/>
+        </g>
+        <g id="Barra_de_navegacion_pedidos_hechos" data-name="Barra de navegacion pedidos hechos" transform="translate(447.5 65.079)">
+          <path id="Barra_de_navegacion" data-name="Barra de navegacion" d="M0,0H24.5V896.842H0Z" fill="#424242"/>
+          <g id="Barra" transform="translate(0.5 24.191)" fill="#686868" stroke="#707070" stroke-width="1">
+            <rect width="24" height="412" stroke="none"/>
+            <rect x="0.5" y="0.5" width="23" height="411" fill="none"/>
+          </g>
+          <g id="boton_barra_de_navegacion" data-name="boton barra de navegacion" transform="translate(0.5 874.651)">
+            <g id="Rectángulo_2" data-name="Rectángulo 2" fill="#424242" stroke="#707070" stroke-width="1">
+              <rect width="24" height="22" stroke="none"/>
+              <rect x="0.5" y="0.5" width="23" height="21" fill="none"/>
+            </g>
+            <g id="Polígono_1" data-name="Polígono 1" transform="translate(20 16) rotate(180)" fill="#686868">
+              <path d="M 15.06573581695557 11.5 L 0.9342628717422485 11.5 L 7.999999523162842 0.9013950228691101 L 15.06573581695557 11.5 Z" stroke="none"/>
+              <path d="M 7.999999523162842 1.802775382995605 L 1.868515968322754 11 L 14.13148307800293 11 L 7.999999523162842 1.802775382995605 M 7.999999523162842 0 L 16 12 L -9.5367431640625e-07 12 L 7.999999523162842 0 Z" stroke="none" fill="#707070"/>
+            </g>
+          </g>
+          <g id="boton_barra_de_navegacion-2" data-name="boton barra de navegacion" transform="translate(0.5 0.191)">
+            <g id="Rectángulo_2-2" data-name="Rectángulo 2" fill="#424242" stroke="#707070" stroke-width="1">
+              <rect width="24" height="22" stroke="none"/>
+              <rect x="0.5" y="0.5" width="23" height="21" fill="none"/>
+            </g>
+            <g id="Polígono_1-2" data-name="Polígono 1" transform="translate(4 4)" fill="#686868">
+              <path d="M 15.01810932159424 10.5 L 0.981889545917511 10.5 L 7.999999523162842 0.850098729133606 L 15.01810932159424 10.5 Z" stroke="none"/>
+              <path d="M 7.999999523162842 1.700187683105469 L 1.963771820068359 10 L 14.03622627258301 10 L 7.999999523162842 1.700187683105469 M 7.999999523162842 0 L 16 11 L -9.5367431640625e-07 11 L 7.999999523162842 0 Z" stroke="none" fill="#707070"/>
+            </g>
+          </g>
+        </g>
+        <g id="Tarjeta_del_pedido" data-name="Tarjeta del pedido" transform="translate(16 81)" clip-path="url(#clip-path)">
+          <g id="Tarjeta_del_pedido-2" data-name="Tarjeta del pedido" transform="translate(-16 -81)">
+            <g id="Tarjeta_del_pedido-3" data-name="Tarjeta del pedido">
+              <rect id="Rectángulo_16" data-name="Rectángulo 16" width="417" height="113" rx="16" transform="translate(16 81)" fill="#2f2f2f"/>
+              <text id="Mario_Estrada" data-name="Mario Estrada" transform="translate(33 111)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Mario Estrada</tspan></text>
+              <text id="_8564256" data-name="#8564256" transform="translate(334 111)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">#8564256</tspan></text>
+              <text id="_35708405" data-name="35708405" transform="translate(33 143)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">35708405</tspan></text>
+              <text id="En_camino" data-name="En camino" transform="translate(330 143)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">En camino</tspan></text>
+              <text id="Delivery" transform="translate(33 175)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Delivery</tspan></text>
+              <text id="_13_m" data-name="13 m" transform="translate(382 175)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">13 m</tspan></text>
+            </g>
+          </g>
+          <g id="Tarjeta_del_pedido-4" data-name="Tarjeta del pedido" transform="translate(-16 37)">
+            <g id="Tarjeta_del_pedido-5" data-name="Tarjeta del pedido">
+              <rect id="Rectángulo_16-2" data-name="Rectángulo 16" width="417" height="113" rx="16" transform="translate(16 81)" fill="#2f2f2f"/>
+              <text id="Mario_Estrada-2" data-name="Mario Estrada" transform="translate(33 111)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Mario Estrada</tspan></text>
+              <text id="_8564256-2" data-name="#8564256" transform="translate(334 111)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">#8564256</tspan></text>
+              <text id="_35708405-2" data-name="35708405" transform="translate(33 143)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">35708405</tspan></text>
+              <text id="En_camino-2" data-name="En camino" transform="translate(330 143)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">En camino</tspan></text>
+              <text id="Delivery-2" data-name="Delivery" transform="translate(33 175)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Delivery</tspan></text>
+              <text id="_13_m-2" data-name="13 m" transform="translate(382 175)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">13 m</tspan></text>
+            </g>
+          </g>
+          <g id="Tarjeta_del_pedido-6" data-name="Tarjeta del pedido" transform="translate(-16 155)">
+            <g id="Tarjeta_del_pedido-7" data-name="Tarjeta del pedido">
+              <rect id="Rectángulo_16-3" data-name="Rectángulo 16" width="417" height="113" rx="16" transform="translate(16 81)" fill="#2f2f2f"/>
+              <text id="Mario_Estrada-3" data-name="Mario Estrada" transform="translate(33 111)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Mario Estrada</tspan></text>
+              <text id="_8564256-3" data-name="#8564256" transform="translate(334 111)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">#8564256</tspan></text>
+              <text id="_35708405-3" data-name="35708405" transform="translate(33 143)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">35708405</tspan></text>
+              <text id="En_camino-3" data-name="En camino" transform="translate(330 143)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">En camino</tspan></text>
+              <text id="Tienda" transform="translate(33 175)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Tienda</tspan></text>
+              <text id="_13_m-3" data-name="13 m" transform="translate(382 175)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">13 m</tspan></text>
+            </g>
+          </g>
+          <g id="Tarjeta_del_pedido-8" data-name="Tarjeta del pedido" transform="translate(-16 273)">
+            <g id="Tarjeta_del_pedido-9" data-name="Tarjeta del pedido">
+              <rect id="Rectángulo_16-4" data-name="Rectángulo 16" width="417" height="113" rx="16" transform="translate(16 81)" fill="#2f2f2f"/>
+              <text id="Mario_Estrada-4" data-name="Mario Estrada" transform="translate(33 111)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Mario Estrada</tspan></text>
+              <text id="_8564256-4" data-name="#8564256" transform="translate(334 111)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">#8564256</tspan></text>
+              <text id="_35708405-4" data-name="35708405" transform="translate(33 143)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">35708405</tspan></text>
+              <text id="En_camino-4" data-name="En camino" transform="translate(330 143)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">En camino</tspan></text>
+              <text id="Delivery-3" data-name="Delivery" transform="translate(33 175)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Delivery</tspan></text>
+              <text id="_13_m-4" data-name="13 m" transform="translate(382 175)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">13 m</tspan></text>
+            </g>
+          </g>
+          <g id="Tarjeta_del_pedido-10" data-name="Tarjeta del pedido" transform="translate(-16 391)">
+            <g id="Tarjeta_del_pedido-11" data-name="Tarjeta del pedido">
+              <rect id="Rectángulo_16-5" data-name="Rectángulo 16" width="417" height="113" rx="16" transform="translate(16 81)" fill="#2f2f2f"/>
+              <text id="Mario_Estrada-5" data-name="Mario Estrada" transform="translate(33 111)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Mario Estrada</tspan></text>
+              <text id="_8564256-5" data-name="#8564256" transform="translate(334 111)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">#8564256</tspan></text>
+              <text id="_35708405-5" data-name="35708405" transform="translate(33 143)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">35708405</tspan></text>
+              <text id="En_camino-5" data-name="En camino" transform="translate(330 143)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">En camino</tspan></text>
+              <text id="Tienda-2" data-name="Tienda" transform="translate(33 175)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Tienda</tspan></text>
+              <text id="_13_m-5" data-name="13 m" transform="translate(382 175)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">13 m</tspan></text>
+            </g>
+          </g>
+          <g id="Tarjeta_del_pedido-12" data-name="Tarjeta del pedido" transform="translate(-16 509)">
+            <g id="Tarjeta_del_pedido-13" data-name="Tarjeta del pedido">
+              <rect id="Rectángulo_16-6" data-name="Rectángulo 16" width="417" height="113" rx="16" transform="translate(16 81)" fill="#2f2f2f"/>
+              <text id="Mario_Estrada-6" data-name="Mario Estrada" transform="translate(33 111)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Mario Estrada</tspan></text>
+              <text id="_8564256-6" data-name="#8564256" transform="translate(334 111)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">#8564256</tspan></text>
+              <text id="_35708405-6" data-name="35708405" transform="translate(33 143)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">35708405</tspan></text>
+              <text id="En_camino-6" data-name="En camino" transform="translate(330 143)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">En camino</tspan></text>
+              <text id="Tienda-3" data-name="Tienda" transform="translate(33 175)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Tienda</tspan></text>
+              <text id="_13_m-6" data-name="13 m" transform="translate(382 175)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">13 m</tspan></text>
+            </g>
+          </g>
+          <g id="Tarjeta_del_pedido-14" data-name="Tarjeta del pedido" transform="translate(-16 627)">
+            <g id="Tarjeta_del_pedido-15" data-name="Tarjeta del pedido">
+              <rect id="Rectángulo_16-7" data-name="Rectángulo 16" width="417" height="113" rx="16" transform="translate(16 81)" fill="#2f2f2f"/>
+              <text id="Mario_Estrada-7" data-name="Mario Estrada" transform="translate(33 111)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Mario Estrada</tspan></text>
+              <text id="_8564256-7" data-name="#8564256" transform="translate(334 111)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">#8564256</tspan></text>
+              <text id="_35708405-7" data-name="35708405" transform="translate(33 143)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">35708405</tspan></text>
+              <text id="En_camino-7" data-name="En camino" transform="translate(330 143)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">En camino</tspan></text>
+              <text id="Entrega_Inmediata" data-name="Entrega Inmediata" transform="translate(33 175)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Entrega Inmediata</tspan></text>
+              <text id="_13_m-7" data-name="13 m" transform="translate(382 175)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">13 m</tspan></text>
+            </g>
+          </g>
+          <g id="Tarjeta_del_pedido-16" data-name="Tarjeta del pedido" transform="translate(-16 745)">
+            <g id="Tarjeta_del_pedido-17" data-name="Tarjeta del pedido">
+              <rect id="Rectángulo_16-8" data-name="Rectángulo 16" width="417" height="113" rx="16" transform="translate(16 81)" fill="#2f2f2f"/>
+              <text id="Mario_Estrada-8" data-name="Mario Estrada" transform="translate(33 111)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Mario Estrada</tspan></text>
+              <text id="_8564256-8" data-name="#8564256" transform="translate(334 111)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">#8564256</tspan></text>
+              <text id="_35708405-8" data-name="35708405" transform="translate(33 143)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">35708405</tspan></text>
+              <text id="En_camino-8" data-name="En camino" transform="translate(330 143)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">En camino</tspan></text>
+              <text id="Entrega_Inmediata-2" data-name="Entrega Inmediata" transform="translate(33 175)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Entrega Inmediata</tspan></text>
+              <text id="_13_m-8" data-name="13 m" transform="translate(382 175)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">13 m</tspan></text>
+            </g>
+          </g>
+        </g>
+        <path id="side_navigation_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24" d="M124.512-797.895a4.269,4.269,0,0,1-3.186-1.374,4.59,4.59,0,0,1-1.325-3.3v-32.749a4.59,4.59,0,0,1,1.325-3.3A4.268,4.268,0,0,1,124.512-840h31.582a4.268,4.268,0,0,1,3.186,1.374,4.59,4.59,0,0,1,1.325,3.3v32.749a4.59,4.59,0,0,1-1.325,3.3,4.269,4.269,0,0,1-3.186,1.374Zm15.791-4.678h15.791v-32.749H140.3Z" transform="translate(-104 852.217)" fill="#b4b4b4"/>
+        <g id="Filtros">
+          <g id="Trazado_1" data-name="Trazado 1" transform="translate(0 963.253)" fill="#171717">
+            <path d="M 469.5 116.247428894043 L 0.5 116.247428894043 L 0.5 0.5000162124633789 L 469.5 0.5000162124633789 L 469.5 116.247428894043 Z" stroke="none"/>
+            <path d="M 1 1.000015258789062 L 1 115.747428894043 L 469 115.747428894043 L 469 1.000015258789062 L 1 1.000015258789062 M 0 1.52587890625e-05 L 470 1.52587890625e-05 L 470 116.747428894043 L 0 116.747428894043 L 0 1.52587890625e-05 Z" stroke="none" fill="#171717"/>
+          </g>
+          <g id="Sucursal" transform="translate(-652.657 677.1)">
+            <g id="Rectángulo_10" data-name="Rectángulo 10" transform="translate(662.657 344.9)" fill="#2f2f2f" stroke="#707070" stroke-width="1">
+              <rect width="217" height="28" rx="14" stroke="none"/>
+              <rect x="0.5" y="0.5" width="216" height="27" rx="13.5" fill="none"/>
+            </g>
+            <path id="keyboard_arrow_down_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24" d="M9.042,11.151,0,2.11,2.11,0,9.042,6.932,15.974,0l2.11,2.11Z" transform="translate(865.839 364.276) rotate(180)" fill="#9b9b9b"/>
+          </g>
+          <g id="Pedidos_en_Curso" data-name="Pedidos en Curso">
+            <g id="Rectángulo_14" data-name="Rectángulo 14" transform="translate(0 963)" fill="#2f2f2f" stroke="#171717" stroke-width="1">
+              <rect width="235" height="44" stroke="none"/>
+              <rect x="0.5" y="0.5" width="234" height="43" fill="none"/>
+            </g>
+            <text id="Pedidos_en_curso-2" data-name="Pedidos en curso" transform="translate(41 994)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Pedidos en curso</tspan></text>
+          </g>
+          <g id="Pedidos_Cerrados" data-name="Pedidos Cerrados">
+            <rect id="Rectángulo_15" data-name="Rectángulo 15" width="235" height="44" transform="translate(235 963)" fill="none"/>
+            <text id="Pedidos_cerrados-2" data-name="Pedidos cerrados" transform="translate(276 994)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Pedidos cerrados</tspan></text>
+          </g>
+          <g id="Busqueda_de_pedidos" data-name="Busqueda de pedidos" transform="translate(-418.657 677.1)">
+            <g id="Rectángulo_10-2" data-name="Rectángulo 10" transform="translate(662.657 344.9)" fill="#2f2f2f" stroke="#707070" stroke-width="1">
+              <rect width="217" height="28" rx="14" stroke="none"/>
+              <rect x="0.5" y="0.5" width="216" height="27" rx="13.5" fill="none"/>
+            </g>
+            <path id="search_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24" d="M129.74-829.439l-3.7-3.7a3.5,3.5,0,0,1-1.012.557,3.575,3.575,0,0,1-1.217.205,3.682,3.682,0,0,1-2.706-1.108A3.681,3.681,0,0,1,120-836.186a3.681,3.681,0,0,1,1.107-2.706A3.681,3.681,0,0,1,123.814-840a3.681,3.681,0,0,1,2.706,1.108,3.681,3.681,0,0,1,1.107,2.706,3.577,3.577,0,0,1-.205,1.217,3.5,3.5,0,0,1-.557,1.012l3.7,3.7Zm-5.926-4.107a2.547,2.547,0,0,0,1.87-.77,2.546,2.546,0,0,0,.77-1.87,2.546,2.546,0,0,0-.77-1.87,2.546,2.546,0,0,0-1.87-.77,2.546,2.546,0,0,0-1.87.77,2.546,2.546,0,0,0-.77,1.87,2.546,2.546,0,0,0,.77,1.87A2.547,2.547,0,0,0,123.814-833.546Z" transform="translate(737.657 1193.619)" fill="#e8eaed"/>
+          </g>
+        </g>
+      </g>
+      <g id="Formulario_cliente" data-name="Formulario cliente" transform="translate(146.077 84.148)">
+        <path id="Formulario_Cliente-2" data-name="Formulario Cliente" d="M28,1A26.977,26.977,0,0,0,1,28V551a26.977,26.977,0,0,0,27,27H800a26.977,26.977,0,0,0,27-27V28A26.977,26.977,0,0,0,800,1H28m0-1H800a28,28,0,0,1,28,28V551a28,28,0,0,1-28,28H28A28,28,0,0,1,0,551V28A28,28,0,0,1,28,0Z" transform="translate(635.923 183.852)" fill="#707070"/>
+        <g id="Guardar" transform="translate(1341.923 685.852)">
+          <g id="Rectángulo_8" data-name="Rectángulo 8" fill="#2f2f2f" stroke="#707070" stroke-width="1">
+            <rect width="105" height="51" rx="25.5" stroke="none"/>
+            <rect x="0.5" y="0.5" width="104" height="50" rx="25" fill="none"/>
+          </g>
+          <text id="Guardar-2" data-name="Guardar" transform="translate(25 28)" fill="#b4b4b4" font-size="14" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Guardar</tspan></text>
+        </g>
+        <g id="Limpiar" transform="translate(1212.923 685.852)">
+          <g id="Rectángulo_13" data-name="Rectángulo 13" fill="#2f2f2f" stroke="#707070" stroke-width="1">
+            <rect width="105" height="51" rx="25.5" stroke="none"/>
+            <rect x="0.5" y="0.5" width="104" height="50" rx="25" fill="none"/>
+          </g>
+          <text id="Limpiar-2" data-name="Limpiar" transform="translate(31 28)" fill="#b4b4b4" font-size="14" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Limpiar</tspan></text>
+        </g>
+        <g id="Nombre_de_quien_recibe" data-name="Nombre de quien recibe" transform="translate(657.629 590.713)">
+          <rect id="Rectángulo_11" data-name="Rectángulo 11" width="385" height="38" rx="19" transform="translate(0.294 34.139)" fill="#2f2f2f"/>
+          <path id="Rectángulo_11_-_Contorno" data-name="Rectángulo 11 - Contorno" d="M19,1A18,18,0,0,0,6.272,31.728,17.882,17.882,0,0,0,19,37H366A18,18,0,0,0,378.728,6.272,17.882,17.882,0,0,0,366,1H19m0-1H366a19,19,0,0,1,0,38H19A19,19,0,0,1,19,0Z" transform="translate(0.294 34.139)" fill="#707070"/>
+          <text id="Nombre_de_quien_recibe-2" data-name="Nombre de quien recibe" transform="translate(8.294 15.139)" fill="#b4b4b4" font-size="14" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Nombre de quien recibe</tspan></text>
+          <path id="keyboard_arrow_down_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24-2" data-name="keyboard_arrow_down_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24" d="M249.507-628.275,240-637.782,242.218-640l7.288,7.289L256.8-640l2.218,2.218Z" transform="translate(118.002 688.311)" fill="#9b9b9b"/>
+          <text id="_5_" data-name="5*" transform="translate(170.294 17.139)" fill="#76d0eb" font-size="16" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">5*</tspan></text>
+        </g>
+        <g id="Nombre_De_facturacion" data-name="Nombre De facturacion" transform="translate(657.629 506.37)">
+          <text id="Nombre_de_facturacion-2" data-name="Nombre de facturacion" transform="translate(8.294 15.482)" fill="#b4b4b4" font-size="14" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Nombre de facturacion</tspan></text>
+          <rect id="Rectángulo_11-2" data-name="Rectángulo 11" width="385" height="37" rx="18.5" transform="translate(0.294 34.482)" fill="#2f2f2f"/>
+          <path id="Rectángulo_11_-_Contorno-2" data-name="Rectángulo 11 - Contorno" d="M18.5,1A17.5,17.5,0,0,0,6.126,30.874,17.385,17.385,0,0,0,18.5,36h348A17.5,17.5,0,0,0,378.874,6.126,17.385,17.385,0,0,0,366.5,1H18.5m0-1h348a18.5,18.5,0,0,1,0,37H18.5a18.5,18.5,0,0,1,0-37Z" transform="translate(0.294 34.482)" fill="#707070"/>
+          <text id="_4_" data-name="4*" transform="translate(163.294 17.482)" fill="#76d0eb" font-size="16" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">4*</tspan></text>
+        </g>
+        <g id="Telefonos" transform="translate(657.629 423.988)">
+          <rect id="Rectángulo_10-3" data-name="Rectángulo 10" width="177" height="39" rx="19.5" transform="translate(0.294 30.864)" fill="#2f2f2f"/>
+          <path id="Rectángulo_10_-_Contorno" data-name="Rectángulo 10 - Contorno" d="M19.5,1a18.505,18.505,0,0,0-7.2,35.547A18.383,18.383,0,0,0,19.5,38h138a18.505,18.505,0,0,0,7.2-35.547A18.383,18.383,0,0,0,157.5,1H19.5m0-1h138a19.5,19.5,0,0,1,0,39H19.5a19.5,19.5,0,0,1,0-39Z" transform="translate(0.294 30.864)" fill="#707070"/>
+          <path id="keyboard_arrow_down_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24-3" data-name="keyboard_arrow_down_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24" d="M249.507-628.275,240-637.782,242.218-640l7.288,7.289L256.8-640l2.218,2.218Z" transform="translate(-86.8 686.206)" fill="#9b9b9b"/>
+          <text id="Teléfono" transform="translate(17.294 14.864)" fill="#b4b4b4" font-size="14" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Teléfono</tspan></text>
+          <text id="_2_" data-name="2*" transform="translate(75.294 16.864)" fill="#76d0eb" font-size="16" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">2*</tspan></text>
+        </g>
+        <g id="NIT" transform="translate(866.198 423.334)">
+          <rect id="Rectángulo_10-4" data-name="Rectángulo 10" width="177" height="39" rx="19.5" transform="translate(-0.276 31.517)" fill="#2f2f2f"/>
+          <path id="Rectángulo_10_-_Contorno-2" data-name="Rectángulo 10 - Contorno" d="M19.5,1a18.505,18.505,0,0,0-7.2,35.547A18.383,18.383,0,0,0,19.5,38h138a18.505,18.505,0,0,0,7.2-35.547A18.383,18.383,0,0,0,157.5,1H19.5m0-1h138a19.5,19.5,0,0,1,0,39H19.5a19.5,19.5,0,0,1,0-39Z" transform="translate(-0.276 31.517)" fill="#707070"/>
+          <path id="keyboard_arrow_down_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24-4" data-name="keyboard_arrow_down_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24" d="M249.507-628.275,240-637.782,242.218-640l7.288,7.289L256.8-640l2.218,2.218Z" transform="translate(-92.762 685.552)" fill="#9b9b9b"/>
+          <text id="NIT-2" data-name="NIT" transform="translate(18.724 15.518)" fill="#b4b4b4" font-size="14" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">NIT</tspan></text>
+          <text id="_3_" data-name="3*" transform="translate(47.724 16.518)" fill="#76d0eb" font-size="16" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">3*</tspan></text>
+        </g>
+        <g id="Nombre_Cliente" data-name="Nombre Cliente" transform="translate(657.629 335.722)">
+          <text id="Nombre_Cliente-2" data-name="Nombre Cliente" transform="translate(8.294 17.13)" fill="#b4b4b4" font-size="14" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Nombre Cliente</tspan></text>
+          <rect id="Rectángulo_11-3" data-name="Rectángulo 11" width="385" height="37" rx="18.5" transform="translate(0.294 35.13)" fill="#2f2f2f"/>
+          <path id="Rectángulo_11_-_Contorno-3" data-name="Rectángulo 11 - Contorno" d="M18.5,1A17.5,17.5,0,0,0,6.126,30.874,17.385,17.385,0,0,0,18.5,36h348A17.5,17.5,0,0,0,378.874,6.126,17.385,17.385,0,0,0,366.5,1H18.5m0-1h348a18.5,18.5,0,0,1,0,37H18.5a18.5,18.5,0,0,1,0-37Z" transform="translate(0.294 35.13)" fill="#707070"/>
+          <text id="_1_" data-name="1*" transform="translate(117.294 18.13)" fill="#76d0eb" font-size="17" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">1*</tspan></text>
+        </g>
+        <g id="Direccion" transform="translate(1068.23 333.761)">
+          <text id="Direccion-2" data-name="Direccion" transform="translate(14.693 17.091)" fill="#b4b4b4" font-size="14" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Dirección</tspan></text>
+          <rect id="Rectángulo_11-4" data-name="Rectángulo 11" width="387" height="39" rx="19.5" transform="translate(-0.307 35.091)" fill="#2f2f2f"/>
+          <path id="Rectángulo_11_-_Contorno-4" data-name="Rectángulo 11 - Contorno" d="M19.5,1a18.505,18.505,0,0,0-7.2,35.547A18.384,18.384,0,0,0,19.5,38h348a18.505,18.505,0,0,0,7.2-35.547A18.384,18.384,0,0,0,367.5,1H19.5m0-1h348a19.5,19.5,0,0,1,0,39H19.5a19.5,19.5,0,0,1,0-39Z" transform="translate(-0.307 35.091)" fill="#707070"/>
+          <path id="keyboard_arrow_down_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24-5" data-name="keyboard_arrow_down_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24" d="M249.507-628.275,240-637.782,242.218-640l7.288,7.289L256.8-640l2.218,2.218Z" transform="translate(115.944 688.732)" fill="#9b9b9b"/>
+          <text id="_6_" data-name="6*" transform="translate(79.693 17.091)" fill="#76d0eb" font-size="16" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">6*</tspan></text>
+        </g>
+        <g id="Buscador" transform="translate(850.923 262.852)">
+          <g id="Rectángulo_5" data-name="Rectángulo 5" fill="#2f2f2f" stroke="#707070" stroke-width="1">
+            <rect width="417" height="45" rx="22.5" stroke="none"/>
+            <rect x="0.5" y="0.5" width="416" height="44" rx="22" fill="none"/>
+          </g>
+          <g id="Lupa" transform="translate(379.391 13.045)">
+            <path id="search_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24-2" data-name="search_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24" d="M137.486-821.039l-6.636-6.636a6.277,6.277,0,0,1-1.817,1,6.419,6.419,0,0,1-2.186.369,6.61,6.61,0,0,1-4.859-1.988A6.609,6.609,0,0,1,120-833.153a6.609,6.609,0,0,1,1.988-4.859A6.609,6.609,0,0,1,126.847-840a6.609,6.609,0,0,1,4.859,1.989,6.609,6.609,0,0,1,1.988,4.859,6.42,6.42,0,0,1-.369,2.186,6.277,6.277,0,0,1-1,1.817l6.636,6.636Zm-10.639-7.374A4.572,4.572,0,0,0,130.2-829.8a4.571,4.571,0,0,0,1.383-3.358,4.571,4.571,0,0,0-1.383-3.358,4.571,4.571,0,0,0-3.358-1.383,4.571,4.571,0,0,0-3.358,1.383,4.571,4.571,0,0,0-1.383,3.358,4.571,4.571,0,0,0,1.383,3.358A4.572,4.572,0,0,0,126.847-828.413Z" transform="translate(-120 840)" fill="#9b9b9b"/>
+          </g>
+        </g>
+        <text id="Cliente" transform="translate(1017.923 238.852)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Cliente</tspan></text>
+        <g id="NIT-3" data-name="NIT" transform="translate(1074.768 422.027)">
+          <rect id="Rectángulo_10-5" data-name="Rectángulo 10" width="380" height="39" rx="19.5" transform="translate(0.155 32.825)" fill="#2f2f2f"/>
+          <path id="Rectángulo_10_-_Contorno-3" data-name="Rectángulo 10 - Contorno" d="M19.5,1a18.505,18.505,0,0,0-7.2,35.547A18.384,18.384,0,0,0,19.5,38h341a18.505,18.505,0,0,0,7.2-35.547A18.384,18.384,0,0,0,360.5,1H19.5m0-1h341a19.5,19.5,0,0,1,0,39H19.5a19.5,19.5,0,0,1,0-39Z" transform="translate(0.155 32.825)" fill="#707070"/>
+          <path id="keyboard_arrow_down_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24-6" data-name="keyboard_arrow_down_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24" d="M249.507-628.275,240-637.782,242.218-640l7.288,7.289L256.8-640l2.218,2.218Z" transform="translate(108.616 686.444)" fill="#9b9b9b"/>
+          <text id="NIT-4" data-name="NIT" transform="translate(19.155 16.825)" fill="#b4b4b4" font-size="14" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Sucursal</tspan></text>
+          <text id="_7_" data-name="7*" transform="translate(76.155 17.825)" fill="#76d0eb" font-size="17" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">7*</tspan></text>
+        </g>
+        <g id="NIT-5" data-name="NIT" transform="translate(1074.768 508.332)">
+          <rect id="Rectángulo_10-6" data-name="Rectángulo 10" width="380" height="119" rx="23" transform="translate(0.155 32.52)" fill="#2f2f2f"/>
+          <path id="Rectángulo_10_-_Contorno-4" data-name="Rectángulo 10 - Contorno" d="M23,1A21.981,21.981,0,0,0,1,23V96a21.981,21.981,0,0,0,22,22H357a21.981,21.981,0,0,0,22-22V23A21.981,21.981,0,0,0,357,1H23m0-1H357a23,23,0,0,1,23,23V96a23,23,0,0,1-23,23H23A23,23,0,0,1,0,96V23A23,23,0,0,1,23,0Z" transform="translate(0.155 32.52)" fill="#707070"/>
+          <text id="NIT-6" data-name="NIT" transform="translate(19.155 16.52)" fill="#b4b4b4" font-size="14" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Notas</tspan></text>
+          <text id="_8_" data-name="8*" transform="translate(61.155 16.52)" fill="#76d0eb" font-size="16" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">8*</tspan></text>
+        </g>
+      </g>
+      <path id="arrow_forward_ios_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24" d="M257.847-791.584,250-799.431l36.361-36.361L250-872.153,257.847-880l44.208,44.208Z" transform="translate(1601.5 1375.792)" fill="#2f2f2f"/>
+      <path id="arrow_forward_ios_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24-2" data-name="arrow_forward_ios_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24" d="M257.847-791.584,250-799.431l36.361-36.361L250-872.153,257.847-880l44.208,44.208Z" transform="translate(798.37 -295.792) rotate(180)" fill="#2f2f2f"/>
+      <g id="Bar_Menu" data-name="Bar Menu" transform="translate(571 33)">
+        <g id="Rectángulo_17" data-name="Rectángulo 17" fill="none" stroke="#707070" stroke-width="1">
+          <rect width="1260" height="66" rx="33" stroke="none"/>
+          <rect x="0.5" y="0.5" width="1259" height="65" rx="32.5" fill="none"/>
+        </g>
+        <text id="_Ludwin" data-name="    Ludwin" transform="translate(1138 38)" fill="#212121" font-size="18" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0"> </tspan><tspan y="0" xml:space="preserve" fill="#b4b4b4">   Ludwin</tspan></text>
+        <text id="Gestion" transform="translate(31 38)" fill="#b4b4b4" font-size="18" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Gestion</tspan></text>
+        <text id="Cocina" transform="translate(131 38)" fill="#b4b4b4" font-size="18" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Cocina</tspan></text>
+        <text id="Call_Center" data-name="Call Center" transform="translate(224 38)" fill="#b4b4b4" font-size="18" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" text-decoration="underline"><tspan x="0" y="0">Call Center</tspan></text>
+        <text id="Delivery-4" data-name="Delivery" transform="translate(351 38)" fill="#b4b4b4" font-size="18" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Delivery</tspan></text>
+        <text id="Dashboard" transform="translate(456 38)" fill="#b4b4b4" font-size="18" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Dashboard</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

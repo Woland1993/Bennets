@@ -1,0 +1,191 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="251" height="421" viewBox="0 0 251 421">
+  <defs>
+    <clipPath id="clip-Extras">
+      <rect width="251" height="421"/>
+    </clipPath>
+  </defs>
+  <g id="Extras" clip-path="url(#clip-Extras)">
+    <rect width="251" height="421" fill="#fff"/>
+    <g id="Extras-2" data-name="Extras">
+      <g id="Trazado_6" data-name="Trazado 6" fill="#212121">
+        <path d="M 250.5 418.3918762207031 L 0.5 418.3918762207031 L 0.5 0.500028133392334 L 250.5 0.500028133392334 L 250.5 418.3918762207031 Z" stroke="none"/>
+        <path d="M 1 0.999969482421875 L 1 417.8918151855469 L 250 417.8918151855469 L 250 0.999969482421875 L 1 0.999969482421875 M 0 -3.0517578125e-05 L 251 -3.0517578125e-05 L 251 418.8918151855469 L 0 418.8918151855469 L 0 -3.0517578125e-05 Z" stroke="none" fill="#707070"/>
+      </g>
+      <g id="Barra_de_navegacion_pedidos_hechos" data-name="Barra de navegacion pedidos hechos" transform="translate(226.5 58.635)">
+        <path id="Barra_de_navegacion" data-name="Barra de navegacion" d="M0,0H24.5V270H0Z" fill="#424242"/>
+        <g id="Barra" transform="translate(0.5 24.191)" fill="#686868" stroke="#707070" stroke-width="1">
+          <rect width="24" height="45" stroke="none"/>
+          <rect x="0.5" y="0.5" width="23" height="44" fill="none"/>
+        </g>
+        <g id="boton_barra_de_navegacion" data-name="boton barra de navegacion" transform="translate(0.5 247.809)">
+          <g id="Rectángulo_2" data-name="Rectángulo 2" fill="#424242" stroke="#707070" stroke-width="1">
+            <rect width="24" height="22" stroke="none"/>
+            <rect x="0.5" y="0.5" width="23" height="21" fill="none"/>
+          </g>
+          <g id="Polígono_1" data-name="Polígono 1" transform="translate(20 16) rotate(180)" fill="#686868">
+            <path d="M 15.06573581695557 11.5 L 0.9342628717422485 11.5 L 7.999999523162842 0.9013950228691101 L 15.06573581695557 11.5 Z" stroke="none"/>
+            <path d="M 7.999999523162842 1.802775382995605 L 1.868515968322754 11 L 14.13148307800293 11 L 7.999999523162842 1.802775382995605 M 7.999999523162842 0 L 16 12 L -9.5367431640625e-07 12 L 7.999999523162842 0 Z" stroke="none" fill="#707070"/>
+          </g>
+        </g>
+        <g id="boton_barra_de_navegacion-2" data-name="boton barra de navegacion" transform="translate(0.5 0.191)">
+          <g id="Rectángulo_2-2" data-name="Rectángulo 2" fill="#424242" stroke="#707070" stroke-width="1">
+            <rect width="24" height="22" stroke="none"/>
+            <rect x="0.5" y="0.5" width="23" height="21" fill="none"/>
+          </g>
+          <g id="Polígono_1-2" data-name="Polígono 1" transform="translate(4 4)" fill="#686868">
+            <path d="M 15.01810932159424 10.5 L 0.981889545917511 10.5 L 7.999999523162842 0.850098729133606 L 15.01810932159424 10.5 Z" stroke="none"/>
+            <path d="M 7.999999523162842 1.700187683105469 L 1.963771820068359 10 L 14.03622627258301 10 L 7.999999523162842 1.700187683105469 M 7.999999523162842 0 L 16 11 L -9.5367431640625e-07 11 L 7.999999523162842 0 Z" stroke="none" fill="#707070"/>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_19" data-name="Grupo 19" transform="translate(29.144 69.125)">
+        <g id="cantidad" transform="translate(114.642)">
+          <g id="Rectángulo_36" data-name="Rectángulo 36" transform="translate(0 1.334)" fill="#424242" stroke="#707070" stroke-width="1">
+            <rect width="62.913" height="18.175" rx="9.087" stroke="none"/>
+            <rect x="0.5" y="0.5" width="61.913" height="17.175" rx="8.587" fill="none"/>
+          </g>
+          <path id="remove_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24" d="M200-518.156V-520h12.909v1.844Z" transform="translate(-194.34 529.5)" fill="#e8eaed"/>
+          <path id="add_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24" d="M205.532-752.623H200v-1.844h5.532V-760h1.844v5.533h5.532v1.844h-5.532v5.532h-1.844Z" transform="translate(-155.147 763.967)" fill="#e8eaed"/>
+          <text id="_2" data-name="2" transform="translate(27.456 15)" fill="#fff" font-size="14" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">2</tspan></text>
+        </g>
+        <text id="Peperomo" transform="translate(0 15)" fill="#b4b4b4" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Peperomo</tspan></text>
+      </g>
+      <g id="Grupo_19-2" data-name="Grupo 19" transform="translate(29.144 93.125)">
+        <g id="cantidad-2" data-name="cantidad" transform="translate(114.642)">
+          <g id="Rectángulo_36-2" data-name="Rectángulo 36" transform="translate(0 1.334)" fill="#424242" stroke="#707070" stroke-width="1">
+            <rect width="62.913" height="18.175" rx="9.087" stroke="none"/>
+            <rect x="0.5" y="0.5" width="61.913" height="17.175" rx="8.587" fill="none"/>
+          </g>
+          <path id="remove_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24-2" data-name="remove_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24" d="M200-518.156V-520h12.909v1.844Z" transform="translate(-194.34 529.5)" fill="#e8eaed"/>
+          <path id="add_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24-2" data-name="add_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24" d="M205.532-752.623H200v-1.844h5.532V-760h1.844v5.533h5.532v1.844h-5.532v5.532h-1.844Z" transform="translate(-155.147 763.967)" fill="#e8eaed"/>
+          <text id="_2-2" data-name="2" transform="translate(27.456 15)" fill="#fff" font-size="14" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">2</tspan></text>
+        </g>
+        <text id="Queso" transform="translate(0 15)" fill="#b4b4b4" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Queso</tspan></text>
+      </g>
+      <g id="Grupo_19-3" data-name="Grupo 19" transform="translate(29.144 117.125)">
+        <g id="cantidad-3" data-name="cantidad" transform="translate(114.642 0)">
+          <g id="Rectángulo_36-3" data-name="Rectángulo 36" transform="translate(0 1.334)" fill="#424242" stroke="#707070" stroke-width="1">
+            <rect width="62.913" height="18.175" rx="9.087" stroke="none"/>
+            <rect x="0.5" y="0.5" width="61.913" height="17.175" rx="8.587" fill="none"/>
+          </g>
+          <path id="remove_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24-3" data-name="remove_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24" d="M200-518.156V-520h12.909v1.844Z" transform="translate(-194.34 529.5)" fill="#e8eaed"/>
+          <path id="add_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24-3" data-name="add_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24" d="M205.532-752.623H200v-1.844h5.532V-760h1.844v5.533h5.532v1.844h-5.532v5.532h-1.844Z" transform="translate(-155.147 763.967)" fill="#e8eaed"/>
+          <text id="_2-3" data-name="2" transform="translate(27.456 15)" fill="#fff" font-size="14" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">2</tspan></text>
+        </g>
+        <text id="Jamon" transform="translate(0 15)" fill="#b4b4b4" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Jamon</tspan></text>
+      </g>
+      <g id="Grupo_19-4" data-name="Grupo 19" transform="translate(29.144 141.125)">
+        <g id="cantidad-4" data-name="cantidad" transform="translate(114.642 0)">
+          <g id="Rectángulo_36-4" data-name="Rectángulo 36" transform="translate(0 1.334)" fill="#424242" stroke="#707070" stroke-width="1">
+            <rect width="62.913" height="18.175" rx="9.087" stroke="none"/>
+            <rect x="0.5" y="0.5" width="61.913" height="17.175" rx="8.587" fill="none"/>
+          </g>
+          <path id="remove_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24-4" data-name="remove_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24" d="M200-518.156V-520h12.909v1.844Z" transform="translate(-194.34 529.5)" fill="#e8eaed"/>
+          <path id="add_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24-4" data-name="add_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24" d="M205.532-752.623H200v-1.844h5.532V-760h1.844v5.533h5.532v1.844h-5.532v5.532h-1.844Z" transform="translate(-155.147 763.967)" fill="#e8eaed"/>
+          <text id="_2-4" data-name="2" transform="translate(27.456 15)" fill="#fff" font-size="14" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">2</tspan></text>
+        </g>
+        <text id="Chile" transform="translate(0 15)" fill="#b4b4b4" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Chile</tspan></text>
+      </g>
+      <g id="Grupo_19-5" data-name="Grupo 19" transform="translate(29.144 165.125)">
+        <g id="cantidad-5" data-name="cantidad" transform="translate(114.642 0)">
+          <g id="Rectángulo_36-5" data-name="Rectángulo 36" transform="translate(0 1.334)" fill="#424242" stroke="#707070" stroke-width="1">
+            <rect width="62.913" height="18.175" rx="9.087" stroke="none"/>
+            <rect x="0.5" y="0.5" width="61.913" height="17.175" rx="8.587" fill="none"/>
+          </g>
+          <path id="remove_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24-5" data-name="remove_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24" d="M200-518.156V-520h12.909v1.844Z" transform="translate(-194.34 529.5)" fill="#e8eaed"/>
+          <path id="add_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24-5" data-name="add_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24" d="M205.532-752.623H200v-1.844h5.532V-760h1.844v5.533h5.532v1.844h-5.532v5.532h-1.844Z" transform="translate(-155.147 763.967)" fill="#e8eaed"/>
+          <text id="_2-5" data-name="2" transform="translate(27.456 15)" fill="#fff" font-size="14" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">2</tspan></text>
+        </g>
+        <text id="Peperomo-2" data-name="Peperomo" transform="translate(0 15)" fill="#b4b4b4" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Peperomo</tspan></text>
+      </g>
+      <g id="Grupo_19-6" data-name="Grupo 19" transform="translate(29.144 189.125)">
+        <g id="cantidad-6" data-name="cantidad" transform="translate(114.642)">
+          <g id="Rectángulo_36-6" data-name="Rectángulo 36" transform="translate(0 1.334)" fill="#424242" stroke="#707070" stroke-width="1">
+            <rect width="62.913" height="18.175" rx="9.087" stroke="none"/>
+            <rect x="0.5" y="0.5" width="61.913" height="17.175" rx="8.587" fill="none"/>
+          </g>
+          <path id="remove_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24-6" data-name="remove_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24" d="M200-518.156V-520h12.909v1.844Z" transform="translate(-194.34 529.5)" fill="#e8eaed"/>
+          <path id="add_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24-6" data-name="add_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24" d="M205.532-752.623H200v-1.844h5.532V-760h1.844v5.533h5.532v1.844h-5.532v5.532h-1.844Z" transform="translate(-155.147 763.967)" fill="#e8eaed"/>
+          <text id="_2-6" data-name="2" transform="translate(27.456 15)" fill="#fff" font-size="14" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">2</tspan></text>
+        </g>
+        <text id="Peperomo-3" data-name="Peperomo" transform="translate(0 15)" fill="#b4b4b4" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Peperomo</tspan></text>
+      </g>
+      <g id="Grupo_19-7" data-name="Grupo 19" transform="translate(29.144 213.125)">
+        <g id="cantidad-7" data-name="cantidad" transform="translate(114.642 0)">
+          <g id="Rectángulo_36-7" data-name="Rectángulo 36" transform="translate(0 1.334)" fill="#424242" stroke="#707070" stroke-width="1">
+            <rect width="62.913" height="18.175" rx="9.087" stroke="none"/>
+            <rect x="0.5" y="0.5" width="61.913" height="17.175" rx="8.587" fill="none"/>
+          </g>
+          <path id="remove_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24-7" data-name="remove_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24" d="M200-518.156V-520h12.909v1.844Z" transform="translate(-194.34 529.5)" fill="#e8eaed"/>
+          <path id="add_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24-7" data-name="add_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24" d="M205.532-752.623H200v-1.844h5.532V-760h1.844v5.533h5.532v1.844h-5.532v5.532h-1.844Z" transform="translate(-155.147 763.967)" fill="#e8eaed"/>
+          <text id="_2-7" data-name="2" transform="translate(27.456 15)" fill="#fff" font-size="14" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">2</tspan></text>
+        </g>
+        <text id="Peperomo-4" data-name="Peperomo" transform="translate(0 15)" fill="#b4b4b4" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Peperomo</tspan></text>
+      </g>
+      <g id="Grupo_19-8" data-name="Grupo 19" transform="translate(29.144 237.125)">
+        <g id="cantidad-8" data-name="cantidad" transform="translate(114.642 0)">
+          <g id="Rectángulo_36-8" data-name="Rectángulo 36" transform="translate(0 1.334)" fill="#424242" stroke="#707070" stroke-width="1">
+            <rect width="62.913" height="18.175" rx="9.087" stroke="none"/>
+            <rect x="0.5" y="0.5" width="61.913" height="17.175" rx="8.587" fill="none"/>
+          </g>
+          <path id="remove_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24-8" data-name="remove_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24" d="M200-518.156V-520h12.909v1.844Z" transform="translate(-194.34 529.5)" fill="#e8eaed"/>
+          <path id="add_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24-8" data-name="add_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24" d="M205.532-752.623H200v-1.844h5.532V-760h1.844v5.533h5.532v1.844h-5.532v5.532h-1.844Z" transform="translate(-155.147 763.967)" fill="#e8eaed"/>
+          <text id="_2-8" data-name="2" transform="translate(27.456 15)" fill="#fff" font-size="14" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">2</tspan></text>
+        </g>
+        <text id="Peperomo-5" data-name="Peperomo" transform="translate(0 15)" fill="#b4b4b4" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Peperomo</tspan></text>
+      </g>
+      <g id="Grupo_19-9" data-name="Grupo 19" transform="translate(29.144 261.125)">
+        <g id="cantidad-9" data-name="cantidad" transform="translate(114.642 0)">
+          <g id="Rectángulo_36-9" data-name="Rectángulo 36" transform="translate(0 1.334)" fill="#424242" stroke="#707070" stroke-width="1">
+            <rect width="62.913" height="18.175" rx="9.087" stroke="none"/>
+            <rect x="0.5" y="0.5" width="61.913" height="17.175" rx="8.587" fill="none"/>
+          </g>
+          <path id="remove_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24-9" data-name="remove_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24" d="M200-518.156V-520h12.909v1.844Z" transform="translate(-194.34 529.5)" fill="#e8eaed"/>
+          <path id="add_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24-9" data-name="add_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24" d="M205.532-752.623H200v-1.844h5.532V-760h1.844v5.533h5.532v1.844h-5.532v5.532h-1.844Z" transform="translate(-155.147 763.967)" fill="#e8eaed"/>
+          <text id="_2-9" data-name="2" transform="translate(27.456 15)" fill="#fff" font-size="14" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">2</tspan></text>
+        </g>
+        <text id="Peperomo-6" data-name="Peperomo" transform="translate(0 15)" fill="#b4b4b4" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Peperomo</tspan></text>
+      </g>
+      <g id="Grupo_19-10" data-name="Grupo 19" transform="translate(29.144 285.125)">
+        <g id="cantidad-10" data-name="cantidad" transform="translate(114.642 0)">
+          <g id="Rectángulo_36-10" data-name="Rectángulo 36" transform="translate(0 1.334)" fill="#424242" stroke="#707070" stroke-width="1">
+            <rect width="62.913" height="18.175" rx="9.087" stroke="none"/>
+            <rect x="0.5" y="0.5" width="61.913" height="17.175" rx="8.587" fill="none"/>
+          </g>
+          <path id="remove_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24-10" data-name="remove_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24" d="M200-518.156V-520h12.909v1.844Z" transform="translate(-194.34 529.5)" fill="#e8eaed"/>
+          <path id="add_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24-10" data-name="add_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24" d="M205.532-752.623H200v-1.844h5.532V-760h1.844v5.533h5.532v1.844h-5.532v5.532h-1.844Z" transform="translate(-155.147 763.967)" fill="#e8eaed"/>
+          <text id="_2-10" data-name="2" transform="translate(27.456 15)" fill="#fff" font-size="14" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">2</tspan></text>
+        </g>
+        <text id="Peperomo-7" data-name="Peperomo" transform="translate(0 15)" fill="#b4b4b4" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Peperomo</tspan></text>
+      </g>
+      <g id="Grupo_19-11" data-name="Grupo 19" transform="translate(29.144 309.125)">
+        <g id="cantidad-11" data-name="cantidad" transform="translate(114.642 0)">
+          <g id="Rectángulo_36-11" data-name="Rectángulo 36" transform="translate(0 1.334)" fill="#424242" stroke="#707070" stroke-width="1">
+            <rect width="62.913" height="18.175" rx="9.087" stroke="none"/>
+            <rect x="0.5" y="0.5" width="61.913" height="17.175" rx="8.587" fill="none"/>
+          </g>
+          <path id="remove_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24-11" data-name="remove_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24" d="M200-518.156V-520h12.909v1.844Z" transform="translate(-194.34 529.5)" fill="#e8eaed"/>
+          <path id="add_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24-11" data-name="add_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24" d="M205.532-752.623H200v-1.844h5.532V-760h1.844v5.533h5.532v1.844h-5.532v5.532h-1.844Z" transform="translate(-155.147 763.967)" fill="#e8eaed"/>
+          <text id="_2-11" data-name="2" transform="translate(27.456 15)" fill="#fff" font-size="14" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">2</tspan></text>
+        </g>
+        <text id="Peperomo-8" data-name="Peperomo" transform="translate(0 15)" fill="#b4b4b4" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Peperomo</tspan></text>
+      </g>
+      <g id="Guardar" transform="translate(134 350.635)">
+        <g id="Rectángulo_8" data-name="Rectángulo 8" fill="#2f2f2f" stroke="#707070" stroke-width="1">
+          <rect width="105" height="51" rx="25.5" stroke="none"/>
+          <rect x="0.5" y="0.5" width="104" height="50" rx="25" fill="none"/>
+        </g>
+        <text id="Guardar-2" data-name="Guardar" transform="translate(25 28)" fill="#b4b4b4" font-size="14" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Guardar</tspan></text>
+      </g>
+      <g id="Limpiar" transform="translate(18 350.635)">
+        <g id="Rectángulo_13" data-name="Rectángulo 13" fill="#2f2f2f" stroke="#707070" stroke-width="1">
+          <rect width="105" height="51" rx="25.5" stroke="none"/>
+          <rect x="0.5" y="0.5" width="104" height="50" rx="25" fill="none"/>
+        </g>
+        <text id="Cancelar" transform="translate(26 31)" fill="#b4b4b4" font-size="14" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Cancelar</tspan></text>
+      </g>
+      <text id="Pizza_grande_de_jamon" data-name="Pizza grande 
+de jamon" transform="translate(126 27)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="-60.581" y="0">Pizza grande </tspan><tspan x="-42.583" y="27">de jamon</tspan></text>
+    </g>
+  </g>
+</svg>

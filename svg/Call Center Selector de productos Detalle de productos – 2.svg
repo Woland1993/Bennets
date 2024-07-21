@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="399" height="207" viewBox="0 0 399 207">
+  <defs>
+    <clipPath id="clip-Call_Center_Selector_de_productos_Detalle_de_productos_2">
+      <rect width="399" height="207"/>
+    </clipPath>
+  </defs>
+  <g id="Call_Center_Selector_de_productos_Detalle_de_productos_2" data-name="Call Center Selector de productos Detalle de productos – 2" clip-path="url(#clip-Call_Center_Selector_de_productos_Detalle_de_productos_2)">
+    <g id="Nota">
+      <g id="Rectángulo_46" data-name="Rectángulo 46" fill="#212121" stroke="#707070" stroke-width="1">
+        <rect width="399" height="207" rx="23" stroke="none"/>
+        <rect x="0.5" y="0.5" width="398" height="206" rx="22.5" fill="none"/>
+      </g>
+      <g id="Rectángulo_10" data-name="Rectángulo 10" transform="translate(10 36)" fill="#2f2f2f" stroke="#707070" stroke-width="1">
+        <rect width="379" height="98" rx="23" stroke="none"/>
+        <rect x="0.5" y="0.5" width="378" height="97" rx="22.5" fill="none"/>
+      </g>
+      <text id="NIT" transform="translate(30 26)" fill="#b4b4b4" font-size="14" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Notas</tspan></text>
+      <g id="Guardar" transform="translate(266 143)">
+        <g id="Rectángulo_8" data-name="Rectángulo 8" fill="#2f2f2f" stroke="#707070" stroke-width="1">
+          <rect width="105" height="51" rx="25.5" stroke="none"/>
+          <rect x="0.5" y="0.5" width="104" height="50" rx="25" fill="none"/>
+        </g>
+        <text id="Guardar-2" data-name="Guardar" transform="translate(25 28)" fill="#b4b4b4" font-size="14" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Guardar</tspan></text>
+      </g>
+      <g id="Limpiar" transform="translate(137 141)">
+        <g id="Rectángulo_13" data-name="Rectángulo 13" fill="#2f2f2f" stroke="#707070" stroke-width="1">
+          <rect width="105" height="51" rx="25.5" stroke="none"/>
+          <rect x="0.5" y="0.5" width="104" height="50" rx="25" fill="none"/>
+        </g>
+        <text id="Cancelar" transform="translate(26 31)" fill="#b4b4b4" font-size="14" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Cancelar</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="384" height="989" viewBox="0 0 384 989">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="339" height="44" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-Pedido_Desplegado">
+      <rect width="384" height="989"/>
+    </clipPath>
+  </defs>
+  <g id="Pedido_Desplegado" data-name="Pedido Desplegado" clip-path="url(#clip-Pedido_Desplegado)">
+    <rect width="384" height="989" fill="#2f2f2f"/>
+    <g id="Tarjeta_del_pedido" data-name="Tarjeta del pedido" transform="translate(-51 -81)">
+      <rect id="Rectángulo_16" data-name="Rectángulo 16" width="384" height="989" rx="16" transform="translate(51 81)" fill="#2f2f2f"/>
+      <text id="Pedido:_123568" data-name="Pedido:
+#123568" transform="translate(241 103)" fill="#b4b4b4" font-size="18" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="-30.48" y="0">Pedido:</tspan><tspan x="-33.952" y="24">#123568</tspan></text>
+      <text id="Estado:_En_camino" data-name="Estado: 
+En camino" transform="translate(73 157)" fill="#b4b4b4" font-size="18" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0" text-decoration="underline">Estado</tspan><tspan y="0">: </tspan><tspan x="0" y="24">En camino</tspan></text>
+      <text id="Registrado:_Madisson_Ramirez" data-name="Registrado:
+Madisson Ramirez" transform="translate(407 157)" fill="#b4b4b4" font-size="18" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="-92.101" y="0" text-decoration="underline">Registrado</tspan><tspan y="0">:</tspan><tspan x="-148.975" y="24">Madisson Ramirez</tspan></text>
+      <path id="Trazado_3" data-name="Trazado 3" d="M388,.5H5.43v-1H388Z" transform="translate(46.5 266)" fill="#707070"/>
+      <text id="Nombre:_Mario_Estrada" data-name="Nombre:
+Mario Estrada" transform="translate(59 329)" fill="#b4b4b4" font-size="18" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0" text-decoration="underline">Nombre</tspan><tspan y="0">:</tspan><tspan x="0" y="24">Mario Estrada</tspan></text>
+      <text id="Datos_de_entega" data-name="Datos de entega" transform="translate(169 288)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Datos de entega</tspan></text>
+      <text id="Teléfono:_35708405" data-name="Teléfono:
+35708405" transform="translate(407 329)" fill="#b4b4b4" font-size="18" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="-74.558" y="0" text-decoration="underline">Teléfono</tspan><tspan y="0">:</tspan><tspan x="-79.98" y="24">35708405</tspan></text>
+      <text id="Dirección:_KM_16.5_Condominio_Altos_de_Arrazola_casa_D-8" data-name="Dirección:
+KM 16.5 Condominio Altos de Arrazola casa D-8" transform="translate(67 370)" fill="#b4b4b4" font-size="18" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="133.548" y="19" text-decoration="underline">Dirección</tspan><tspan y="19">:</tspan><tspan x="16.632" y="43">KM 16.5 Condominio Altos de Arrazola </tspan><tspan x="138.949" y="67">casa D-8</tspan></text>
+      <text id="Nota:_Cuidado_con_el_perro_Tocar_Timbre" data-name="Nota:
+Cuidado con el perro, Tocar Timbre" transform="translate(67 508)" fill="#b4b4b4" font-size="18" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan text-decoration="underline"><tspan x="151.601" y="19">Nota:</tspan></tspan><tspan x="30.725" y="43">Cuidado con el perro, Tocar Timbre</tspan></text>
+      <text id="Centro_de_despacho:_Bennets_CAES" data-name="Centro de despacho:
+Bennets CAES" transform="translate(82 455)" fill="#b4b4b4" font-size="18" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan text-decoration="underline"><tspan x="74.731" y="19">Centro de despacho:</tspan></tspan><tspan x="102.202" y="43">Bennets CAES</tspan></text>
+      <path id="Trazado_4" data-name="Trazado 4" transform="translate(241.5 89.5)" fill="#707070"/>
+      <path id="Trazado_5" data-name="Trazado 5" d="M384,.5H0v-1H384Z" transform="translate(49 575)" fill="#707070"/>
+      <text id="Datos_de_facturacion" data-name="Datos de facturacion" transform="translate(150 611)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Datos de facturacion</tspan></text>
+      <text id="Nombre:_Mario_Estrada-2" data-name="Nombre:
+Mario Estrada" transform="translate(59 634)" fill="#b4b4b4" font-size="18" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0" text-decoration="underline">Nombre</tspan><tspan y="0">:</tspan><tspan x="0" y="24">Mario Estrada</tspan></text>
+      <text id="NIT:_35708405" data-name="NIT:
+35708405" transform="translate(407 634)" fill="#b4b4b4" font-size="18" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="-33.144" y="0" text-decoration="underline">NIT</tspan><tspan y="0">:</tspan><tspan x="-79.98" y="24">35708405</tspan></text>
+      <path id="Línea_1" data-name="Línea 1" d="M382,.5H0v-1H382Z" transform="translate(51.5 674.5)" fill="#707070"/>
+      <text id="Estados" transform="translate(210 702.5)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Estados</tspan></text>
+      <text id="Confirmado:_11_07_24_2:00_PM" data-name="Confirmado:
+11/07/24 2:00 PM" transform="translate(59 743)" fill="#b4b4b4" font-size="18" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Confirmado:</tspan><tspan x="0" y="24">11/07/24 2:00 PM</tspan></text>
+      <text id="En_preparación:_11_07_24_2:00_PM" data-name="En preparación:
+11/07/24 2:00 PM" transform="translate(415 743)" fill="#b4b4b4" font-size="18" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="-126.527" y="0">En preparación:</tspan><tspan x="-140.757" y="24">11/07/24 2:00 PM</tspan></text>
+      <text id="En_Camino:_11_07_24_2:00_PM" data-name="En Camino:
+11/07/24 2:00 PM" transform="translate(59 803)" fill="#b4b4b4" font-size="18" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">En Camino:</tspan><tspan x="0" y="24">11/07/24 2:00 PM</tspan></text>
+      <text id="Entregado:_11_07_24_2:00_PM" data-name="Entregado:
+11/07/24 2:00 PM" transform="translate(415 803)" fill="#b4b4b4" font-size="18" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="-88.567" y="0">Entregado:</tspan><tspan x="-140.757" y="24">11/07/24 2:00 PM</tspan></text>
+      <text id="Detalles_del_pedido" data-name="Detalles del pedido" transform="translate(156 870.921)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Detalles del pedido</tspan></text>
+      <text id="N_" data-name="N#" transform="translate(67 897.921)" fill="#b4b4b4" font-size="15" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">N#</tspan></text>
+      <text id="Nombre:" transform="translate(96 897.921)" fill="#b4b4b4" font-size="15" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Nombre:</tspan></text>
+      <text id="Coste:" transform="translate(373 897.921)" fill="#b4b4b4" font-size="15" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Coste:</tspan></text>
+      <g id="Cuadrícula_de_repetición_1" data-name="Cuadrícula de repetición 1" transform="translate(74 907.921)" clip-path="url(#clip-path)">
+        <g id="Grupo_2" data-name="Grupo 2" transform="translate(-74 -907.921)">
+          <text id="_1" data-name="1" transform="translate(74 923.921)" fill="#b4b4b4" font-size="15" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">1</tspan></text>
+          <text id="Pizza_Alfredo_Chicken:_personal" data-name="Pizza Alfredo Chicken: personal" transform="translate(96 923.921)" fill="#b4b4b4" font-size="15" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Pizza Alfredo Chicken: personal</tspan></text>
+          <text id="_35.00" data-name="35.00" transform="translate(376 923.921)" fill="#b4b4b4" font-size="15" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">35.00</tspan></text>
+        </g>
+        <g id="Grupo_2-2" data-name="Grupo 2" transform="translate(-74 -887.921)">
+          <text id="_1-2" data-name="1" transform="translate(74 923.921)" fill="#b4b4b4" font-size="15" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">1</tspan></text>
+          <text id="Pizza_Alfredo_Chicken:_personal-2" data-name="Pizza Alfredo Chicken: personal" transform="translate(96 923.921)" fill="#b4b4b4" font-size="15" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Pizza Alfredo Chicken: personal</tspan></text>
+          <text id="_35.00-2" data-name="35.00" transform="translate(376 923.921)" fill="#b4b4b4" font-size="15" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">35.00</tspan></text>
+        </g>
+        <g id="Grupo_2-3" data-name="Grupo 2" transform="translate(-74 -867.921)">
+          <text id="_1-3" data-name="1" transform="translate(74 923.921)" fill="#b4b4b4" font-size="15" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">1</tspan></text>
+          <text id="Pizza_Alfredo_Chicken:_personal-3" data-name="Pizza Alfredo Chicken: personal" transform="translate(96 923.921)" fill="#b4b4b4" font-size="15" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Pizza Alfredo Chicken: personal</tspan></text>
+          <text id="_35.00-3" data-name="35.00" transform="translate(376 923.921)" fill="#b4b4b4" font-size="15" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">35.00</tspan></text>
+        </g>
+      </g>
+      <path id="Línea_2" data-name="Línea 2" d="M0,.921v-1L382-.5v1Z" transform="translate(53.5 840)" fill="#707070"/>
+      <text id="Fecha_de_emisión:_" data-name="Fecha de emisión: " transform="translate(319 224)" fill="#b4b4b4" font-size="18" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="-150.46" y="0">Fecha de emisión: </tspan></text>
+      <text id="_10_de_Julio_2024_a_ls_2:00_PM" data-name="10 de Julio 2024 a ls 2:00 PM" transform="translate(357.5 249)" fill="#b4b4b4" font-size="18" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="-233.763" y="0">10 de Julio 2024 a ls 2:00 PM</tspan></text>
+      <path id="Línea_3" data-name="Línea 3" d="M386,.5H0v-1H386Z" transform="translate(49.5 952)" fill="#707070"/>
+      <text id="Pago_en_efectivo_Total:_70.00" data-name="Pago en efectivo                                     Total: 70.00" transform="translate(74 953.5)" fill="#b4b4b4" font-size="15" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="16" xml:space="preserve">Pago en efectivo                                     Total: 70.00</tspan></text>
+    </g>
+  </g>
+</svg>

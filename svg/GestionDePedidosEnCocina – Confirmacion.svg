@@ -1,0 +1,324 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1081" viewBox="0 0 1920 1081">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="476" height="735" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect width="342" height="302.792" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect width="476" height="729" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-8">
+      <rect width="476" height="163" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-GestionDePedidosEnCocina_Confirmacion">
+      <rect width="1920" height="1081"/>
+    </clipPath>
+  </defs>
+  <g id="GestionDePedidosEnCocina_Confirmacion" data-name="GestionDePedidosEnCocina – Confirmacion" clip-path="url(#clip-GestionDePedidosEnCocina_Confirmacion)">
+    <rect width="1920" height="1081" fill="#fff"/>
+    <g id="Cocina">
+      <rect id="Fondo" width="1920" height="1081" fill="#171717"/>
+      <g id="Entrantes" transform="translate(52 157)">
+        <rect id="Rectángulo_17" data-name="Rectángulo 17" width="557" height="854" fill="#212121"/>
+        <path id="Rectángulo_17_-_Contorno" data-name="Rectángulo 17 - Contorno" d="M1,1V853H556V1H1M0,0H557V854H0Z" fill="#707070"/>
+        <path id="stat_1_24dp_5F6368_FILL0_wght400_GRAD0_opsz24" d="M244.476-617.343,240-621.819,259.181-641l19.181,19.181-4.476,4.476-14.705-14.625Z" transform="translate(214.638 902.154)" fill="#5f6368"/>
+        <g id="Barra_de_navegacion_pedidos_hechos" data-name="Barra de navegacion pedidos hechos" transform="translate(528.508)">
+          <path id="Barra_de_navegacion" data-name="Barra de navegacion" d="M0,0H28.492V854H0Z" fill="#424242"/>
+          <g id="Barra" transform="translate(0.5 24.191)" fill="#686868" stroke="#707070" stroke-width="1">
+            <rect width="27.992" height="412" stroke="none"/>
+            <rect x="0.5" y="0.5" width="26.992" height="411" fill="none"/>
+          </g>
+          <g id="boton_barra_de_navegacion" data-name="boton barra de navegacion" transform="translate(0.5 831.809)">
+            <g id="Rectángulo_2" data-name="Rectángulo 2" fill="#424242" stroke="#707070" stroke-width="1">
+              <rect width="27.992" height="22" stroke="none"/>
+              <rect x="0.5" y="0.5" width="26.992" height="21" fill="none"/>
+            </g>
+            <g id="Polígono_1" data-name="Polígono 1" transform="translate(23.992 16) rotate(180)" fill="#686868">
+              <path d="M 18.92463874816895 11.5 L 1.067243695259094 11.5 L 9.995941162109375 0.781211256980896 L 18.92463874816895 11.5 Z" stroke="none"/>
+              <path d="M 9.995941162109375 1.562424659729004 L 2.134487152099609 11 L 17.85739517211914 11 L 9.995941162109375 1.562424659729004 M 9.995941162109375 0 L 19.99188041687012 12 L 1.9073486328125e-06 12 L 9.995941162109375 0 Z" stroke="none" fill="#707070"/>
+            </g>
+          </g>
+          <g id="boton_barra_de_navegacion-2" data-name="boton barra de navegacion" transform="translate(0.5 0.191)">
+            <g id="Rectángulo_2-2" data-name="Rectángulo 2" fill="#424242" stroke="#707070" stroke-width="1">
+              <rect width="27.992" height="22" stroke="none"/>
+              <rect x="0.5" y="0.5" width="26.992" height="21" fill="none"/>
+            </g>
+            <g id="Polígono_1-2" data-name="Polígono 1" transform="translate(4 4)" fill="#686868">
+              <path d="M 18.86191368103027 10.5 L 1.129968881607056 10.5 L 9.995941162109375 0.7434692978858948 L 18.86191368103027 10.5 Z" stroke="none"/>
+              <path d="M 9.995941162109375 1.4869384765625 L 2.259937286376953 10 L 17.7319450378418 10 L 9.995941162109375 1.4869384765625 M 9.995941162109375 0 L 19.99188041687012 11 L 1.9073486328125e-06 11 L 9.995941162109375 0 Z" stroke="none" fill="#707070"/>
+            </g>
+          </g>
+        </g>
+        <g id="detalle_extendido" data-name="detalle extendido" transform="translate(26 119)" clip-path="url(#clip-path)">
+          <g id="detalle_extendido-2" data-name="detalle extendido">
+            <rect id="Rectángulo_16" data-name="Rectángulo 16" width="476" height="443" rx="16" fill="#2f2f2f"/>
+            <g id="Detalle_del_pedido" data-name="Detalle del pedido" transform="translate(64 85.819)">
+              <g id="Cuadrícula_de_repetición_4" data-name="Cuadrícula de repetición 4" transform="translate(22 17.49)" clip-path="url(#clip-path-2)">
+                <g id="Grupo_2" data-name="Grupo 2" transform="translate(-74 -907.921)">
+                  <text id="_1" data-name="1" transform="translate(74 923.921)" fill="#b4b4b4" font-size="15" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">1</tspan></text>
+                  <text id="Pizza_Alfredo_Chicken:_personal_1_jamon_2_queso_Sin_Salsa_por_favor_" data-name="Pizza Alfredo Chicken: personal
++ 1 jamon + 2 queso 
+Sin Salsa por favor " transform="translate(96 923.921)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Pizza Alfredo Chicken: personal</tspan><tspan x="0" y="27">+ 1 jamon + 2 queso </tspan><tspan x="0" y="54">Sin Salsa por favor </tspan></text>
+                </g>
+                <g id="Grupo_2-2" data-name="Grupo 2" transform="translate(-74 -798.921)">
+                  <text id="_1-2" data-name="1" transform="translate(74 923.921)" fill="#b4b4b4" font-size="15" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">1</tspan></text>
+                  <text id="Pizza_Alfredo_Chicken:_personal_1_jamon_2_queso_Sin_Salsa_por_favor_2" data-name="Pizza Alfredo Chicken: personal
++ 1 jamon + 2 queso 
+Sin Salsa por favor " transform="translate(96 923.921)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Pizza Alfredo Chicken: personal</tspan><tspan x="0" y="27">+ 1 jamon + 2 queso </tspan><tspan x="0" y="54">Sin Salsa por favor </tspan></text>
+                </g>
+                <g id="Grupo_2-3" data-name="Grupo 2" transform="translate(-74 -689.921)">
+                  <text id="_1-3" data-name="1" transform="translate(74 923.921)" fill="#b4b4b4" font-size="15" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">1</tspan></text>
+                  <text id="Pizza_Alfredo_Chicken:_personal_1_jamon_2_queso_Sin_Salsa_por_favor_3" data-name="Pizza Alfredo Chicken: personal
++ 1 jamon + 2 queso 
+Sin Salsa por favor " transform="translate(96 923.921)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Pizza Alfredo Chicken: personal</tspan><tspan x="0" y="27">+ 1 jamon + 2 queso </tspan><tspan x="0" y="54">Sin Salsa por favor </tspan></text>
+                </g>
+              </g>
+            </g>
+            <text id="Pedido:_123568" data-name="Pedido:
+#123568" transform="translate(238 38)" fill="#b4b4b4" font-size="18" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="-30.48" y="0">Pedido:</tspan><tspan x="-33.952" y="24">#123568</tspan></text>
+            <path id="CambiaEstado" d="M187.5-687l-3.85-3.988,9.762-9.762H160v-5.5h33.412l-9.762-9.762L187.5-720,204-703.5Z" transform="translate(246 1114)" fill="#5f6368"/>
+          </g>
+          <g id="detalle_extendido-3" data-name="detalle extendido" transform="translate(0 463)">
+            <rect id="Rectángulo_16-2" data-name="Rectángulo 16" width="476" height="443" rx="16" fill="#2f2f2f"/>
+            <g id="Detalle_del_pedido-2" data-name="Detalle del pedido" transform="translate(64 85.819)">
+              <g id="Cuadrícula_de_repetición_4-2" data-name="Cuadrícula de repetición 4" transform="translate(22 17.49)" clip-path="url(#clip-path-2)">
+                <g id="Grupo_2-4" data-name="Grupo 2" transform="translate(-74 -907.921)">
+                  <text id="_1-4" data-name="1" transform="translate(74 923.921)" fill="#b4b4b4" font-size="15" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">1</tspan></text>
+                  <text id="Pizza_Alfredo_Chicken:_personal_1_jamon_2_queso_Sin_Salsa_por_favor_4" data-name="Pizza Alfredo Chicken: personal
++ 1 jamon + 2 queso 
+Sin Salsa por favor " transform="translate(96 923.921)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Pizza Alfredo Chicken: personal</tspan><tspan x="0" y="27">+ 1 jamon + 2 queso </tspan><tspan x="0" y="54">Sin Salsa por favor </tspan></text>
+                </g>
+                <g id="Grupo_2-5" data-name="Grupo 2" transform="translate(-74 -798.921)">
+                  <text id="_1-5" data-name="1" transform="translate(74 923.921)" fill="#b4b4b4" font-size="15" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">1</tspan></text>
+                  <text id="Pizza_Alfredo_Chicken:_personal_1_jamon_2_queso_Sin_Salsa_por_favor_5" data-name="Pizza Alfredo Chicken: personal
++ 1 jamon + 2 queso 
+Sin Salsa por favor " transform="translate(96 923.921)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Pizza Alfredo Chicken: personal</tspan><tspan x="0" y="27">+ 1 jamon + 2 queso </tspan><tspan x="0" y="54">Sin Salsa por favor </tspan></text>
+                </g>
+                <g id="Grupo_2-6" data-name="Grupo 2" transform="translate(-74 -689.921)">
+                  <text id="_1-6" data-name="1" transform="translate(74 923.921)" fill="#b4b4b4" font-size="15" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">1</tspan></text>
+                  <text id="Pizza_Alfredo_Chicken:_personal_1_jamon_2_queso_Sin_Salsa_por_favor_6" data-name="Pizza Alfredo Chicken: personal
++ 1 jamon + 2 queso 
+Sin Salsa por favor " transform="translate(96 923.921)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Pizza Alfredo Chicken: personal</tspan><tspan x="0" y="27">+ 1 jamon + 2 queso </tspan><tspan x="0" y="54">Sin Salsa por favor </tspan></text>
+                </g>
+              </g>
+            </g>
+            <text id="Pedido:_123568-2" data-name="Pedido:
+#123568" transform="translate(238 38)" fill="#b4b4b4" font-size="18" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="-30.48" y="0">Pedido:</tspan><tspan x="-33.952" y="24">#123568</tspan></text>
+            <path id="CambiaEstado-2" data-name="CambiaEstado" d="M187.5-687l-3.85-3.988,9.762-9.762H160v-5.5h33.412l-9.762-9.762L187.5-720,204-703.5Z" transform="translate(246 1114)" fill="#5f6368"/>
+          </g>
+        </g>
+        <path id="Línea_1" data-name="Línea 1" d="M472,.5H0v-1H472Z" transform="translate(38 94.5)" fill="#707070"/>
+        <text id="ORDENES_ENTRANTES" data-name="ORDENES ENTRANTES" transform="translate(110.5 56.5)" fill="#b4b4b4" font-size="32" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">ORDENES ENTRANTES</tspan></text>
+      </g>
+      <g id="EnPreparacion" transform="translate(659 157)">
+        <rect id="Rectángulo_19" data-name="Rectángulo 19" width="602" height="863" transform="translate(0 -10)" fill="#212121"/>
+        <path id="Línea_2" data-name="Línea 2" d="M472,.5H0v-1H472Z" transform="translate(65 95.5)" fill="#707070"/>
+        <g id="Barra_de_navegacion_pedidos_hechos-2" data-name="Barra de navegacion pedidos hechos" transform="translate(573.57)">
+          <path id="Barra_de_navegacion-2" data-name="Barra de navegacion" d="M0,0H28.43V863H0Z" fill="#424242"/>
+          <g id="Barra-2" data-name="Barra" transform="translate(0.5 24.191)" fill="#686868" stroke="#707070" stroke-width="1">
+            <rect width="27.93" height="412" stroke="none"/>
+            <rect x="0.5" y="0.5" width="26.93" height="411" fill="none"/>
+          </g>
+          <g id="boton_barra_de_navegacion-3" data-name="boton barra de navegacion" transform="translate(0.5 840.809)">
+            <g id="Rectángulo_2-3" data-name="Rectángulo 2" fill="#424242" stroke="#707070" stroke-width="1">
+              <rect width="27.93" height="22" stroke="none"/>
+              <rect x="0.5" y="0.5" width="26.93" height="21" fill="none"/>
+            </g>
+            <g id="Polígono_1-3" data-name="Polígono 1" transform="translate(23.93 16) rotate(180)" fill="#686868">
+              <path d="M 18.86515998840332 11.5 L 1.065136551856995 11.5 L 9.965147972106934 0.782636284828186 L 18.86515998840332 11.5 Z" stroke="none"/>
+              <path d="M 9.965147972106934 1.565272331237793 L 2.130275726318359 11 L 17.80002021789551 11 L 9.965147972106934 1.565272331237793 M 9.965147972106934 0 L 19.9302978515625 12 L -1.9073486328125e-06 12 L 9.965147972106934 0 Z" stroke="none" fill="#707070"/>
+            </g>
+          </g>
+          <g id="boton_barra_de_navegacion-4" data-name="boton barra de navegacion" transform="translate(0.5 0.191)">
+            <g id="Rectángulo_2-4" data-name="Rectángulo 2" fill="#424242" stroke="#707070" stroke-width="1">
+              <rect width="27.93" height="22" stroke="none"/>
+              <rect x="0.5" y="0.5" width="26.93" height="21" fill="none"/>
+            </g>
+            <g id="Polígono_1-4" data-name="Polígono 1" transform="translate(4 4)" fill="#686868">
+              <path d="M 18.80267906188965 10.5 L 1.127619504928589 10.5 L 9.96514892578125 0.744720458984375 L 18.80267906188965 10.5 Z" stroke="none"/>
+              <path d="M 9.96514892578125 1.489461898803711 L 2.255258560180664 10 L 17.67503929138184 10 L 9.96514892578125 1.489461898803711 M 9.96514892578125 0 L 19.93029975891113 11 L -1.9073486328125e-06 11 L 9.96514892578125 0 Z" stroke="none" fill="#707070"/>
+            </g>
+          </g>
+        </g>
+        <text id="EN_PREPARACIÓN" data-name="EN PREPARACIÓN" transform="translate(301 59)" fill="#b4b4b4" font-size="32" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="-130.984" y="0">EN PREPARACIÓN</tspan></text>
+        <g id="detalle_extendido-4" data-name="detalle extendido" transform="translate(63 124)" clip-path="url(#clip-path-4)">
+          <g id="detalle_extendido-5" data-name="detalle extendido">
+            <rect id="Rectángulo_16-3" data-name="Rectángulo 16" width="476" height="443" rx="16" fill="#2f2f2f"/>
+            <g id="Detalle_del_pedido-3" data-name="Detalle del pedido" transform="translate(64 85.819)">
+              <g id="Cuadrícula_de_repetición_4-3" data-name="Cuadrícula de repetición 4" transform="translate(22 17.49)" clip-path="url(#clip-path-2)">
+                <g id="Grupo_2-7" data-name="Grupo 2" transform="translate(-74 -907.921)">
+                  <text id="_1-7" data-name="1" transform="translate(74 923.921)" fill="#b4b4b4" font-size="15" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">1</tspan></text>
+                  <text id="Pizza_Alfredo_Chicken:_personal_1_jamon_2_queso_Sin_Salsa_por_favor_7" data-name="Pizza Alfredo Chicken: personal
++ 1 jamon + 2 queso 
+Sin Salsa por favor " transform="translate(96 923.921)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Pizza Alfredo Chicken: personal</tspan><tspan x="0" y="27">+ 1 jamon + 2 queso </tspan><tspan x="0" y="54">Sin Salsa por favor </tspan></text>
+                </g>
+                <g id="Grupo_2-8" data-name="Grupo 2" transform="translate(-74 -798.921)">
+                  <text id="_1-8" data-name="1" transform="translate(74 923.921)" fill="#b4b4b4" font-size="15" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">1</tspan></text>
+                  <text id="Pizza_Alfredo_Chicken:_personal_1_jamon_2_queso_Sin_Salsa_por_favor_8" data-name="Pizza Alfredo Chicken: personal
++ 1 jamon + 2 queso 
+Sin Salsa por favor " transform="translate(96 923.921)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Pizza Alfredo Chicken: personal</tspan><tspan x="0" y="27">+ 1 jamon + 2 queso </tspan><tspan x="0" y="54">Sin Salsa por favor </tspan></text>
+                </g>
+                <g id="Grupo_2-9" data-name="Grupo 2" transform="translate(-74 -689.921)">
+                  <text id="_1-9" data-name="1" transform="translate(74 923.921)" fill="#b4b4b4" font-size="15" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">1</tspan></text>
+                  <text id="Pizza_Alfredo_Chicken:_personal_1_jamon_2_queso_Sin_Salsa_por_favor_9" data-name="Pizza Alfredo Chicken: personal
++ 1 jamon + 2 queso 
+Sin Salsa por favor " transform="translate(96 923.921)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Pizza Alfredo Chicken: personal</tspan><tspan x="0" y="27">+ 1 jamon + 2 queso </tspan><tspan x="0" y="54">Sin Salsa por favor </tspan></text>
+                </g>
+              </g>
+            </g>
+            <text id="Pedido:_123568-3" data-name="Pedido:
+#123568" transform="translate(238 38)" fill="#b4b4b4" font-size="18" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="-30.48" y="0">Pedido:</tspan><tspan x="-33.952" y="24">#123568</tspan></text>
+            <path id="CambiaEstado-3" data-name="CambiaEstado" d="M187.5-687l-3.85-3.988,9.762-9.762H160v-5.5h33.412l-9.762-9.762L187.5-720,204-703.5Z" transform="translate(246 1114)" fill="#5f6368"/>
+          </g>
+          <g id="detalle_extendido-6" data-name="detalle extendido" transform="translate(0 463)">
+            <rect id="Rectángulo_16-4" data-name="Rectángulo 16" width="476" height="443" rx="16" fill="#2f2f2f"/>
+            <g id="Detalle_del_pedido-4" data-name="Detalle del pedido" transform="translate(64 85.819)">
+              <g id="Cuadrícula_de_repetición_4-4" data-name="Cuadrícula de repetición 4" transform="translate(22 17.49)" clip-path="url(#clip-path-2)">
+                <g id="Grupo_2-10" data-name="Grupo 2" transform="translate(-74 -907.921)">
+                  <text id="_1-10" data-name="1" transform="translate(74 923.921)" fill="#b4b4b4" font-size="15" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">1</tspan></text>
+                  <text id="Pizza_Alfredo_Chicken:_personal_1_jamon_2_queso_Sin_Salsa_por_favor_10" data-name="Pizza Alfredo Chicken: personal
++ 1 jamon + 2 queso 
+Sin Salsa por favor " transform="translate(96 923.921)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Pizza Alfredo Chicken: personal</tspan><tspan x="0" y="27">+ 1 jamon + 2 queso </tspan><tspan x="0" y="54">Sin Salsa por favor </tspan></text>
+                </g>
+                <g id="Grupo_2-11" data-name="Grupo 2" transform="translate(-74 -798.921)">
+                  <text id="_1-11" data-name="1" transform="translate(74 923.921)" fill="#b4b4b4" font-size="15" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">1</tspan></text>
+                  <text id="Pizza_Alfredo_Chicken:_personal_1_jamon_2_queso_Sin_Salsa_por_favor_11" data-name="Pizza Alfredo Chicken: personal
++ 1 jamon + 2 queso 
+Sin Salsa por favor " transform="translate(96 923.921)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Pizza Alfredo Chicken: personal</tspan><tspan x="0" y="27">+ 1 jamon + 2 queso </tspan><tspan x="0" y="54">Sin Salsa por favor </tspan></text>
+                </g>
+                <g id="Grupo_2-12" data-name="Grupo 2" transform="translate(-74 -689.921)">
+                  <text id="_1-12" data-name="1" transform="translate(74 923.921)" fill="#b4b4b4" font-size="15" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">1</tspan></text>
+                  <text id="Pizza_Alfredo_Chicken:_personal_1_jamon_2_queso_Sin_Salsa_por_favor_12" data-name="Pizza Alfredo Chicken: personal
++ 1 jamon + 2 queso 
+Sin Salsa por favor " transform="translate(96 923.921)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Pizza Alfredo Chicken: personal</tspan><tspan x="0" y="27">+ 1 jamon + 2 queso </tspan><tspan x="0" y="54">Sin Salsa por favor </tspan></text>
+                </g>
+              </g>
+            </g>
+            <text id="Pedido:_123568-4" data-name="Pedido:
+#123568" transform="translate(238 38)" fill="#b4b4b4" font-size="18" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="-30.48" y="0">Pedido:</tspan><tspan x="-33.952" y="24">#123568</tspan></text>
+            <path id="CambiaEstado-4" data-name="CambiaEstado" d="M187.5-687l-3.85-3.988,9.762-9.762H160v-5.5h33.412l-9.762-9.762L187.5-720,204-703.5Z" transform="translate(246 1114)" fill="#5f6368"/>
+          </g>
+        </g>
+      </g>
+      <g id="Preparadas" transform="translate(1308 147)">
+        <path id="Trazado_2" data-name="Trazado 2" d="M0,0H557V873H0Z" fill="#212121"/>
+        <g id="Grupo_7" data-name="Grupo 7" transform="translate(22 120)">
+          <rect id="Rectángulo_16-5" data-name="Rectángulo 16" width="476" height="109" rx="16" fill="#2f2f2f"/>
+          <path id="DespliegaDetalle" d="M4.471,23.631,0,19.16,19.16,0l19.16,19.16L33.85,23.631,19.16,9.021Z" transform="translate(457.321 39.631) rotate(180)" fill="#5f6368"/>
+          <text id="Pedido:_123568-5" data-name="Pedido:
+#123568" transform="translate(238 47)" fill="#b4b4b4" font-size="18" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="-30.48" y="0">Pedido:</tspan><tspan x="-33.952" y="24">#123568</tspan></text>
+        </g>
+        <path id="Línea_3" data-name="Línea 3" d="M472,.5H0v-1H472Z" transform="translate(22 101.5)" fill="#707070"/>
+        <text id="PREPARADAS-2" data-name="PREPARADAS" transform="translate(260 63.5)" fill="#b4b4b4" font-size="32" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="-97.969" y="0">PREPARADAS</tspan></text>
+        <g id="Barra_de_navegacion_pedidos_hechos-3" data-name="Barra de navegacion pedidos hechos" transform="translate(528.508)">
+          <path id="Barra_de_navegacion-3" data-name="Barra de navegacion" d="M0,0H28.492V873H0Z" fill="#424242"/>
+          <g id="Barra-3" data-name="Barra" transform="translate(0.5 24.191)" fill="#686868" stroke="#707070" stroke-width="1">
+            <rect width="27.992" height="412" stroke="none"/>
+            <rect x="0.5" y="0.5" width="26.992" height="411" fill="none"/>
+          </g>
+          <g id="boton_barra_de_navegacion-5" data-name="boton barra de navegacion" transform="translate(0.5 850.809)">
+            <g id="Rectángulo_2-5" data-name="Rectángulo 2" fill="#424242" stroke="#707070" stroke-width="1">
+              <rect width="27.992" height="22" stroke="none"/>
+              <rect x="0.5" y="0.5" width="26.992" height="21" fill="none"/>
+            </g>
+            <g id="Polígono_1-5" data-name="Polígono 1" transform="translate(23.992 16) rotate(180)" fill="#686868">
+              <path d="M 18.92463874816895 11.5 L 1.067243695259094 11.5 L 9.995941162109375 0.781211256980896 L 18.92463874816895 11.5 Z" stroke="none"/>
+              <path d="M 9.995941162109375 1.562424659729004 L 2.134487152099609 11 L 17.85739517211914 11 L 9.995941162109375 1.562424659729004 M 9.995941162109375 0 L 19.99188041687012 12 L 1.9073486328125e-06 12 L 9.995941162109375 0 Z" stroke="none" fill="#707070"/>
+            </g>
+          </g>
+          <g id="boton_barra_de_navegacion-6" data-name="boton barra de navegacion" transform="translate(0.5 0.191)">
+            <g id="Rectángulo_2-6" data-name="Rectángulo 2" fill="#424242" stroke="#707070" stroke-width="1">
+              <rect width="27.992" height="22" stroke="none"/>
+              <rect x="0.5" y="0.5" width="26.992" height="21" fill="none"/>
+            </g>
+            <g id="Polígono_1-6" data-name="Polígono 1" transform="translate(4 4)" fill="#686868">
+              <path d="M 18.86191368103027 10.5 L 1.129968881607056 10.5 L 9.995941162109375 0.7434692978858948 L 18.86191368103027 10.5 Z" stroke="none"/>
+              <path d="M 9.995941162109375 1.4869384765625 L 2.259937286376953 10 L 17.7319450378418 10 L 9.995941162109375 1.4869384765625 M 9.995941162109375 0 L 19.99188041687012 11 L 1.9073486328125e-06 11 L 9.995941162109375 0 Z" stroke="none" fill="#707070"/>
+            </g>
+          </g>
+        </g>
+        <g id="detalle_extendido-7" data-name="detalle extendido" transform="translate(20 247.762)">
+          <rect id="Rectángulo_16-6" data-name="Rectángulo 16" width="476" height="443" rx="16" transform="translate(0 0.238)" fill="#2f2f2f"/>
+          <g id="Detalle_del_pedido-5" data-name="Detalle del pedido" transform="translate(86 103.309)">
+            <g id="Cuadrícula_de_repetición_4-5" data-name="Cuadrícula de repetición 4" clip-path="url(#clip-path-2)">
+              <g id="Grupo_2-13" data-name="Grupo 2" transform="translate(-74 -907.921)">
+                <text id="_1-13" data-name="1" transform="translate(74 923.921)" fill="#b4b4b4" font-size="15" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">1</tspan></text>
+                <text id="Pizza_Alfredo_Chicken:_personal_1_jamon_2_queso_Sin_Salsa_por_favor_13" data-name="Pizza Alfredo Chicken: personal
++ 1 jamon + 2 queso 
+Sin Salsa por favor " transform="translate(96 923.921)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Pizza Alfredo Chicken: personal</tspan><tspan x="0" y="27">+ 1 jamon + 2 queso </tspan><tspan x="0" y="54">Sin Salsa por favor </tspan></text>
+              </g>
+              <g id="Grupo_2-14" data-name="Grupo 2" transform="translate(-74 -798.921)">
+                <text id="_1-14" data-name="1" transform="translate(74 923.921)" fill="#b4b4b4" font-size="15" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">1</tspan></text>
+                <text id="Pizza_Alfredo_Chicken:_personal_1_jamon_2_queso_Sin_Salsa_por_favor_14" data-name="Pizza Alfredo Chicken: personal
++ 1 jamon + 2 queso 
+Sin Salsa por favor " transform="translate(96 923.921)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Pizza Alfredo Chicken: personal</tspan><tspan x="0" y="27">+ 1 jamon + 2 queso </tspan><tspan x="0" y="54">Sin Salsa por favor </tspan></text>
+              </g>
+              <g id="Grupo_2-15" data-name="Grupo 2" transform="translate(-74 -689.921)">
+                <text id="_1-15" data-name="1" transform="translate(74 923.921)" fill="#b4b4b4" font-size="15" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">1</tspan></text>
+                <text id="Pizza_Alfredo_Chicken:_personal_1_jamon_2_queso_Sin_Salsa_por_favor_15" data-name="Pizza Alfredo Chicken: personal
++ 1 jamon + 2 queso 
+Sin Salsa por favor " transform="translate(96 923.921)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Pizza Alfredo Chicken: personal</tspan><tspan x="0" y="27">+ 1 jamon + 2 queso </tspan><tspan x="0" y="54">Sin Salsa por favor </tspan></text>
+              </g>
+            </g>
+          </g>
+          <text id="Pedido:_123568-6" data-name="Pedido:
+#123568" transform="translate(238 38.238)" fill="#b4b4b4" font-size="18" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="-30.48" y="0">Pedido:</tspan><tspan x="-33.952" y="24">#123568</tspan></text>
+          <path id="CambiaEstado-5" data-name="CambiaEstado" d="M187.5-687l-3.85-3.988,9.762-9.762H160v-5.5h33.412l-9.762-9.762L187.5-720,204-703.5Z" transform="translate(246 1114)" fill="#5f6368"/>
+        </g>
+        <path id="DespliegaDetalle-2" data-name="DespliegaDetalle" d="M4.471,23.631,0,19.16,19.16,0l19.16,19.16L33.85,23.631,19.16,9.021Z" transform="translate(479.321 159.631) rotate(180)" fill="#5f6368"/>
+        <path id="DespliegaDetalle-3" data-name="DespliegaDetalle" d="M4.471,0,0,4.471l19.16,19.16,19.16-19.16L33.85,0,19.16,14.61Z" transform="translate(479.321 307.979) rotate(180)" fill="#5f6368"/>
+        <g id="Cuadrícula_de_repetición_5" data-name="Cuadrícula de repetición 5" transform="translate(20 710)" clip-path="url(#clip-path-8)">
+          <g id="Grupo_9" data-name="Grupo 9">
+            <rect id="Rectángulo_16-7" data-name="Rectángulo 16" width="476" height="109" rx="16" fill="#2f2f2f"/>
+            <path id="DespliegaDetalle-4" data-name="DespliegaDetalle" d="M4.471,23.631,0,19.16,19.16,0l19.16,19.16L33.85,23.631,19.16,9.021Z" transform="translate(457.321 39.631) rotate(180)" fill="#5f6368"/>
+            <text id="Pedido:_123568-7" data-name="Pedido:
+#123568" transform="translate(238 47)" fill="#b4b4b4" font-size="18" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="-30.48" y="0">Pedido:</tspan><tspan x="-33.952" y="24">#123568</tspan></text>
+          </g>
+          <g id="Grupo_9-2" data-name="Grupo 9" transform="translate(0 129)">
+            <rect id="Rectángulo_16-8" data-name="Rectángulo 16" width="476" height="109" rx="16" fill="#2f2f2f"/>
+            <path id="DespliegaDetalle-5" data-name="DespliegaDetalle" d="M4.471,23.631,0,19.16,19.16,0l19.16,19.16L33.85,23.631,19.16,9.021Z" transform="translate(457.321 39.631) rotate(180)" fill="#5f6368"/>
+            <text id="Pedido:_123568-8" data-name="Pedido:
+#123568" transform="translate(238 47)" fill="#b4b4b4" font-size="18" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="-30.48" y="0">Pedido:</tspan><tspan x="-33.952" y="24">#123568</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Bar_Menu" data-name="Bar Menu" transform="translate(347 41)">
+        <g id="Rectángulo_17-2" data-name="Rectángulo 17" fill="none" stroke="#707070" stroke-width="1">
+          <rect width="1260" height="66" rx="33" stroke="none"/>
+          <rect x="0.5" y="0.5" width="1259" height="65" rx="32.5" fill="none"/>
+        </g>
+        <text id="_Ludwin" data-name="    Ludwin" transform="translate(1138 38)" fill="#212121" font-size="18" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0"> </tspan><tspan y="0" xml:space="preserve" fill="#b4b4b4">   Ludwin</tspan></text>
+        <text id="Gestion" transform="translate(31 38)" fill="#b4b4b4" font-size="18" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Gestion</tspan></text>
+        <text id="Cocina-2" data-name="Cocina" transform="translate(131 38)" fill="#b4b4b4" font-size="18" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Cocina</tspan></text>
+        <text id="Call_Center" data-name="Call Center" transform="translate(224 38)" fill="#b4b4b4" font-size="18" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" text-decoration="underline"><tspan x="0" y="0">Call Center</tspan></text>
+        <text id="Delivery" transform="translate(351 38)" fill="#b4b4b4" font-size="18" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Delivery</tspan></text>
+        <text id="Dashboard" transform="translate(456 38)" fill="#b4b4b4" font-size="18" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Dashboard</tspan></text>
+      </g>
+    </g>
+    <rect id="Rectángulo_42" data-name="Rectángulo 42" width="1920" height="1081" fill="rgba(254,254,254,0.17)"/>
+    <path id="Rectángulo_42_-_Contorno" data-name="Rectángulo 42 - Contorno" d="M1,1V1080H1919V1H1M0,0H1920V1081H0Z" fill="#707070"/>
+    <g id="Nota" transform="translate(761 431)">
+      <g id="Rectángulo_46" data-name="Rectángulo 46" fill="#212121" stroke="#707070" stroke-width="1">
+        <rect width="399" height="207" rx="23" stroke="none"/>
+        <rect x="0.5" y="0.5" width="398" height="206" rx="22.5" fill="none"/>
+      </g>
+      <g id="Guardar" transform="translate(245 140)">
+        <g id="Rectángulo_8" data-name="Rectángulo 8" fill="#2f2f2f" stroke="#707070" stroke-width="1">
+          <rect width="105" height="51" rx="25.5" stroke="none"/>
+          <rect x="0.5" y="0.5" width="104" height="50" rx="25" fill="none"/>
+        </g>
+        <text id="Confirmar" transform="translate(25 28)" fill="#b4b4b4" font-size="14" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Confirmar</tspan></text>
+      </g>
+      <g id="Limpiar" transform="translate(49 140)">
+        <g id="Rectángulo_13" data-name="Rectángulo 13" fill="#2f2f2f" stroke="#707070" stroke-width="1">
+          <rect width="105" height="51" rx="25.5" stroke="none"/>
+          <rect x="0.5" y="0.5" width="104" height="50" rx="25" fill="none"/>
+        </g>
+        <text id="Cancelar" transform="translate(26 31)" fill="#b4b4b4" font-size="14" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Cancelar</tspan></text>
+      </g>
+      <text id="_Desea_confirmar_que_la_orden_ha_sido_preparada_" data-name="¿Desea confirmar quela orden ha sidopreparada?" transform="translate(199 45)" fill="#b4b4b4" font-size="20" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="-98.486" y="0">¿Desea confirmar que</tspan><tspan x="-72.798" y="27">la orden ha sido</tspan><tspan x="-50.684" y="54">preparada?</tspan></text>
+    </g>
+  </g>
+</svg>
