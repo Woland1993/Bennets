@@ -205,36 +205,40 @@ gulp.task('qunit', () => {
     let totalTests = 0;
     let failingTests = 0;
 
-    let tests = Promise.all( testFiles.map( filename => {
-        return new Promise( ( resolve, reject ) => {
+    let tests = Promise.all(testFiles.map(filename => {
+        return new Promise((resolve, reject) => {
             qunit.runQunitPuppeteer({
                 targetUrl: `http://${serverConfig.host}:${serverConfig.port}/${filename}`,
                 timeout: 20000,
                 redirectConsole: false,
-                puppeteerArgs: ['--allow-file-access-from-files']
+                puppeteerArgs: ['--allow-file-access-from-files', '--headless=new'] // Actualización aquí
             })
-                .then(result => {
-                    if( result.stats.failed > 0 ) {
-                        console.log(`${'!'} ${filename} [${result.stats.passed}/${result.stats.total}] in ${result.stats.runtime}ms`.red);
-                        // qunit.printResultSummary(result, console);
-                        qunit.printFailedTests(result, console);
-                    }
-                    else {
-                        console.log(`${'✔'} ${filename} [${result.stats.passed}/${result.stats.total}] in ${result.stats.runtime}ms`.green);
-                    }
-
-                    totalTests += result.stats.total;
-                    failingTests += result.stats.failed;
-
-                    resolve();
-                })
-                .catch(error => {
-                    console.error(error);
-                    reject();
-                });
-        } )
-    } ) );
-
+            .then(result => {
+                if (result.stats.failed > 0) {
+                    console.log(`! ${filename} [${result.stats.passed}/${result.stats.total}] in ${result.stats.runtime}ms`.red);
+                    // qunit.printResultSummary(result, console);
+                    qunit.printFailedTests(result, console);
+                } else {
+                    console.log(`✔ ${filename} [${result.stats.passed}/${result.stats.total}] in ${result.stats.runtime}ms`.green);
+                }
+    
+                totalTests += result.stats.total;
+                failingTests += result.stats.failed;
+    
+                resolve();
+            })
+            .catch(error => {
+                console.error(error);
+                reject();
+            });
+        });
+    }));
+    
+    tests.then(() => {
+        console.log(`All tests completed. Total: ${totalTests}, Failing: ${failingTests}`);
+    }).catch(() => {
+        console.error('Some tests failed.');
+    });
     return new Promise( ( resolve, reject ) => {
 
         tests.then( () => {
